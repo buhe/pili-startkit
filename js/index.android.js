@@ -1,22 +1,24 @@
 'use strict';
 import React, {
-	  Component,
+    Component,
 } from 'react';
 import {
-	  StyleSheet,
-	    Text,
-	      View,
-	      AppRegistry
+    StyleSheet,
+    Text,
+    View,
+    AppRegistry
 } from 'react-native';
 
 class pilipili extends Component {
-	  constructor() {
-		      super();
-		        }
+  constructor() {
+    super();
+  }
 
-	    render() {
-		        return <View><Text>abc</Text></View>
-				  }
+  render() {
+    return <View style={{top:100}}>
+              <Text>abc</Text>
+            </View>
+  }
 }
 
 
