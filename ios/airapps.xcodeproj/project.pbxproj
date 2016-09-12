@@ -1,0 +1,553 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		78EE4B1D1D867C4900D8EEA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 78EE4B1C1D867C4900D8EEA0 /* main.m */; };
+		78EE4B201D867C4900D8EEA0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 78EE4B1F1D867C4900D8EEA0 /* AppDelegate.m */; };
+		78EE4B231D867C4900D8EEA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78EE4B221D867C4900D8EEA0 /* ViewController.m */; };
+		78EE4B261D867C4900D8EEA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78EE4B241D867C4900D8EEA0 /* Main.storyboard */; };
+		78EE4B281D867C4900D8EEA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78EE4B271D867C4900D8EEA0 /* Assets.xcassets */; };
+		78EE4B2B1D867C4900D8EEA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78EE4B291D867C4900D8EEA0 /* LaunchScreen.storyboard */; };
+		78EE4B361D867C4900D8EEA0 /* airappsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 78EE4B351D867C4900D8EEA0 /* airappsUITests.m */; };
+		8102EABCE57415592097A4EB /* libPods-airappsUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C357DE701D8C96911795974 /* libPods-airappsUITests.a */; };
+		EC03C37CC24867A64D3BD507 /* libPods-airapps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 69E60E62D747CAA348D74004 /* libPods-airapps.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		78EE4B321D867C4900D8EEA0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 78EE4B101D867C4900D8EEA0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 78EE4B171D867C4900D8EEA0;
+			remoteInfo = airapps;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0DDEE96685F9CE1F8AC3544D /* Pods-airappsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-airappsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-airappsUITests/Pods-airappsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3C357DE701D8C96911795974 /* libPods-airappsUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-airappsUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		69E60E62D747CAA348D74004 /* libPods-airapps.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-airapps.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B04F53C0144DD023C20D1AB /* Pods-airapps.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-airapps.release.xcconfig"; path = "Pods/Target Support Files/Pods-airapps/Pods-airapps.release.xcconfig"; sourceTree = "<group>"; };
+		78EE4B181D867C4900D8EEA0 /* airapps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = airapps.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		78EE4B1C1D867C4900D8EEA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		78EE4B1E1D867C4900D8EEA0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		78EE4B1F1D867C4900D8EEA0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		78EE4B211D867C4900D8EEA0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		78EE4B221D867C4900D8EEA0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		78EE4B251D867C4900D8EEA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		78EE4B271D867C4900D8EEA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		78EE4B2A1D867C4900D8EEA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		78EE4B2C1D867C4900D8EEA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78EE4B311D867C4900D8EEA0 /* airappsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = airappsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		78EE4B351D867C4900D8EEA0 /* airappsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = airappsUITests.m; sourceTree = "<group>"; };
+		78EE4B371D867C4900D8EEA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		911B5362C8A3163616DEEB3C /* Pods-airappsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-airappsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-airappsUITests/Pods-airappsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FA4D25E366884C3CE41B72DB /* Pods-airapps.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-airapps.debug.xcconfig"; path = "Pods/Target Support Files/Pods-airapps/Pods-airapps.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		78EE4B151D867C4900D8EEA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC03C37CC24867A64D3BD507 /* libPods-airapps.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		78EE4B2E1D867C4900D8EEA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8102EABCE57415592097A4EB /* libPods-airappsUITests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		450C0B2759CB39AE427D7850 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				69E60E62D747CAA348D74004 /* libPods-airapps.a */,
+				3C357DE701D8C96911795974 /* libPods-airappsUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		78EE4B0F1D867C4900D8EEA0 = {
+			isa = PBXGroup;
+			children = (
+				78EE4B1A1D867C4900D8EEA0 /* airapps */,
+				78EE4B341D867C4900D8EEA0 /* airappsUITests */,
+				78EE4B191D867C4900D8EEA0 /* Products */,
+				803DE1790F18E0F4E479E692 /* Pods */,
+				450C0B2759CB39AE427D7850 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		78EE4B191D867C4900D8EEA0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				78EE4B181D867C4900D8EEA0 /* airapps.app */,
+				78EE4B311D867C4900D8EEA0 /* airappsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		78EE4B1A1D867C4900D8EEA0 /* airapps */ = {
+			isa = PBXGroup;
+			children = (
+				78EE4B1E1D867C4900D8EEA0 /* AppDelegate.h */,
+				78EE4B1F1D867C4900D8EEA0 /* AppDelegate.m */,
+				78EE4B211D867C4900D8EEA0 /* ViewController.h */,
+				78EE4B221D867C4900D8EEA0 /* ViewController.m */,
+				78EE4B241D867C4900D8EEA0 /* Main.storyboard */,
+				78EE4B271D867C4900D8EEA0 /* Assets.xcassets */,
+				78EE4B291D867C4900D8EEA0 /* LaunchScreen.storyboard */,
+				78EE4B2C1D867C4900D8EEA0 /* Info.plist */,
+				78EE4B1B1D867C4900D8EEA0 /* Supporting Files */,
+			);
+			path = airapps;
+			sourceTree = "<group>";
+		};
+		78EE4B1B1D867C4900D8EEA0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				78EE4B1C1D867C4900D8EEA0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		78EE4B341D867C4900D8EEA0 /* airappsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				78EE4B351D867C4900D8EEA0 /* airappsUITests.m */,
+				78EE4B371D867C4900D8EEA0 /* Info.plist */,
+			);
+			path = airappsUITests;
+			sourceTree = "<group>";
+		};
+		803DE1790F18E0F4E479E692 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA4D25E366884C3CE41B72DB /* Pods-airapps.debug.xcconfig */,
+				6B04F53C0144DD023C20D1AB /* Pods-airapps.release.xcconfig */,
+				911B5362C8A3163616DEEB3C /* Pods-airappsUITests.debug.xcconfig */,
+				0DDEE96685F9CE1F8AC3544D /* Pods-airappsUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		78EE4B171D867C4900D8EEA0 /* airapps */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 78EE4B3A1D867C4900D8EEA0 /* Build configuration list for PBXNativeTarget "airapps" */;
+			buildPhases = (
+				C91C265A619D643E18B10FB0 /* [CP] Check Pods Manifest.lock */,
+				78EE4B141D867C4900D8EEA0 /* Sources */,
+				78EE4B151D867C4900D8EEA0 /* Frameworks */,
+				78EE4B161D867C4900D8EEA0 /* Resources */,
+				E840472C6A690D724FA3F857 /* [CP] Embed Pods Frameworks */,
+				7BCF004C797D99A5948AC48F /* [CP] Copy Pods Resources */,
+				78EE4B401D8683A600D8EEA0 /* Bundle React Native code and images */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = airapps;
+			productName = airapps;
+			productReference = 78EE4B181D867C4900D8EEA0 /* airapps.app */;
+			productType = "com.apple.product-type.application";
+		};
+		78EE4B301D867C4900D8EEA0 /* airappsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 78EE4B3D1D867C4900D8EEA0 /* Build configuration list for PBXNativeTarget "airappsUITests" */;
+			buildPhases = (
+				75E7E2CA19BE4D47C640FF39 /* [CP] Check Pods Manifest.lock */,
+				78EE4B2D1D867C4900D8EEA0 /* Sources */,
+				78EE4B2E1D867C4900D8EEA0 /* Frameworks */,
+				78EE4B2F1D867C4900D8EEA0 /* Resources */,
+				7073F6563B64930D7CE9BDDA /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				78EE4B331D867C4900D8EEA0 /* PBXTargetDependency */,
+			);
+			name = airappsUITests;
+			productName = airappsUITests;
+			productReference = 78EE4B311D867C4900D8EEA0 /* airappsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		78EE4B101D867C4900D8EEA0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = airapps;
+				TargetAttributes = {
+					78EE4B171D867C4900D8EEA0 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					78EE4B301D867C4900D8EEA0 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 78EE4B171D867C4900D8EEA0;
+					};
+				};
+			};
+			buildConfigurationList = 78EE4B131D867C4900D8EEA0 /* Build configuration list for PBXProject "airapps" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 78EE4B0F1D867C4900D8EEA0;
+			productRefGroup = 78EE4B191D867C4900D8EEA0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				78EE4B171D867C4900D8EEA0 /* airapps */,
+				78EE4B301D867C4900D8EEA0 /* airappsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		78EE4B161D867C4900D8EEA0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78EE4B2B1D867C4900D8EEA0 /* LaunchScreen.storyboard in Resources */,
+				78EE4B281D867C4900D8EEA0 /* Assets.xcassets in Resources */,
+				78EE4B261D867C4900D8EEA0 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		78EE4B2F1D867C4900D8EEA0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7073F6563B64930D7CE9BDDA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-airappsUITests/Pods-airappsUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		75E7E2CA19BE4D47C640FF39 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		78EE4B401D8683A600D8EEA0 /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../js/node_modules/react-native/packager/react-native-xcode.sh";
+		};
+		7BCF004C797D99A5948AC48F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-airapps/Pods-airapps-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C91C265A619D643E18B10FB0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E840472C6A690D724FA3F857 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-airapps/Pods-airapps-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		78EE4B141D867C4900D8EEA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78EE4B231D867C4900D8EEA0 /* ViewController.m in Sources */,
+				78EE4B201D867C4900D8EEA0 /* AppDelegate.m in Sources */,
+				78EE4B1D1D867C4900D8EEA0 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		78EE4B2D1D867C4900D8EEA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78EE4B361D867C4900D8EEA0 /* airappsUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		78EE4B331D867C4900D8EEA0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 78EE4B171D867C4900D8EEA0 /* airapps */;
+			targetProxy = 78EE4B321D867C4900D8EEA0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		78EE4B241D867C4900D8EEA0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				78EE4B251D867C4900D8EEA0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		78EE4B291D867C4900D8EEA0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				78EE4B2A1D867C4900D8EEA0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		78EE4B381D867C4900D8EEA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		78EE4B391D867C4900D8EEA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		78EE4B3B1D867C4900D8EEA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA4D25E366884C3CE41B72DB /* Pods-airapps.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = airapps/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.airapps.airapps;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		78EE4B3C1D867C4900D8EEA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6B04F53C0144DD023C20D1AB /* Pods-airapps.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = airapps/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.airapps.airapps;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		78EE4B3E1D867C4900D8EEA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 911B5362C8A3163616DEEB3C /* Pods-airappsUITests.debug.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = airappsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.airapps.airappsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = airapps;
+			};
+			name = Debug;
+		};
+		78EE4B3F1D867C4900D8EEA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DDEE96685F9CE1F8AC3544D /* Pods-airappsUITests.release.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = airappsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.airapps.airappsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = airapps;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		78EE4B131D867C4900D8EEA0 /* Build configuration list for PBXProject "airapps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78EE4B381D867C4900D8EEA0 /* Debug */,
+				78EE4B391D867C4900D8EEA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		78EE4B3A1D867C4900D8EEA0 /* Build configuration list for PBXNativeTarget "airapps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78EE4B3B1D867C4900D8EEA0 /* Debug */,
+				78EE4B3C1D867C4900D8EEA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		78EE4B3D1D867C4900D8EEA0 /* Build configuration list for PBXNativeTarget "airappsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78EE4B3E1D867C4900D8EEA0 /* Debug */,
+				78EE4B3F1D867C4900D8EEA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 78EE4B101D867C4900D8EEA0 /* Project object */;
+}
