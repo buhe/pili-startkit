@@ -17,6 +17,7 @@ target 'airapps' do
     'RCTVibration',
     'RCTWebSocket',
   ]
+  pod 'WeChatSDK'
   target 'airappsUITests' do
     inherit! :search_paths
     # Pods for testing

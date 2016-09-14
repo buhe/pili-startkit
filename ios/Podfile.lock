@@ -19,6 +19,7 @@ PODS:
     - React/Core
   - React/RCTWebSocket (0.33.0):
     - React/Core
+  - WeChatSDK (0.0.1)
 
 DEPENDENCIES:
   - React/ART (from `../js/node_modules/react-native`)
@@ -30,6 +31,7 @@ DEPENDENCIES:
   - React/RCTText (from `../js/node_modules/react-native`)
   - React/RCTVibration (from `../js/node_modules/react-native`)
   - React/RCTWebSocket (from `../js/node_modules/react-native`)
+  - WeChatSDK
 
 EXTERNAL SOURCES:
   React:
@@ -37,7 +39,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   React: 46edc166689ba71b0b6cf11e64dbdb258d177089
+  WeChatSDK: 2331356d1c18d52a52d19d5118974d5ad2d36eea
 
-PODFILE CHECKSUM: ec28489b697b1a9d6324619aaaf6026c07c204c3
+PODFILE CHECKSUM: a8887fd889109d6195ec9bd4b4b5a953fc8d4466
 
 COCOAPODS: 1.0.1

@@ -436,6 +436,7 @@
 		3C5C196448483AEB228B2975B604FB68 /* RCTMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMap.h; sourceTree = "<group>"; };
 		3CB61EC72D6A427E60FBB2BF14BCE2EE /* RCTTextManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextManager.m; sourceTree = "<group>"; };
 		3CBEF30F58515F68BE3A52CEA09E4B79 /* RCTMapOverlay.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMapOverlay.h; sourceTree = "<group>"; };
+		3D02F36597026838F4E2AE3A6493DBCE /* libWeChatSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeChatSDK.a; path = SDKExport/libWeChatSDK.a; sourceTree = "<group>"; };
 		3E93B9274115DF37F748D37B43FF6324 /* RCTRefreshControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRefreshControl.h; sourceTree = "<group>"; };
 		3FE549F77018F2BD13413E5E25510C70 /* RCTScrollableProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollableProtocol.h; sourceTree = "<group>"; };
 		3FEC8D8F43E8F9F41D58E2BFC428C2EE /* ARTCGFloatArray.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTCGFloatArray.h; sourceTree = "<group>"; };
@@ -479,6 +480,7 @@
 		5D6584E094E55EB4E0F117B4CB894F89 /* RCTConvert+CoreLocation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+CoreLocation.m"; sourceTree = "<group>"; };
 		5E70566AE50C255E9E686B183779FAC2 /* RCTWebSocketModule.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWebSocketModule.m; sourceTree = "<group>"; };
 		5EB47EE887901E3A0FA731B3EBF22FD3 /* RCTModuleMethod.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModuleMethod.h; sourceTree = "<group>"; };
+		611C6EDDB73F1AA9199E69B33505C961 /* WXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApiObject.h; path = SDKExport/WXApiObject.h; sourceTree = "<group>"; };
 		6148DAD8F010AABF299705F643ACACC2 /* RCTGIFImageDecoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTGIFImageDecoder.h; sourceTree = "<group>"; };
 		616080B798A2A6BA3320EE379A1607B7 /* RCTImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageView.h; sourceTree = "<group>"; };
 		6166F54274D6F44A6A9A5A8F81092864 /* RCTModalHostViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTModalHostViewController.m; sourceTree = "<group>"; };
@@ -599,6 +601,7 @@
 		C2113AC92A3680058D18319B41AE7A04 /* RCTProfile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTProfile.h; sourceTree = "<group>"; };
 		C26C0808EC8C23CB1C15B2171DCE351F /* RCTProfileTrampoline-arm64.S */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.asm; path = "RCTProfileTrampoline-arm64.S"; sourceTree = "<group>"; };
 		C2754D0FBB32393FD28C01822DB6A39A /* RCTJavaScriptLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTJavaScriptLoader.h; sourceTree = "<group>"; };
+		C31F7049AC0354FCECE745A9599C2521 /* WXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApi.h; path = SDKExport/WXApi.h; sourceTree = "<group>"; };
 		C34A33638203F5EE7AD5D83F1019EDC3 /* RCTSourceCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSourceCode.h; sourceTree = "<group>"; };
 		C35794ACE939E586F54BC30C37AA5163 /* RCTTouchEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTouchEvent.h; sourceTree = "<group>"; };
 		C56B8919245162F41C3F16C5E92A2EAF /* RCTImageStoreManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageStoreManager.h; sourceTree = "<group>"; };
@@ -855,6 +858,16 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		31C2EF8AA2730E25C5D877853564842E /* WeChatSDK */ = {
+			isa = PBXGroup;
+			children = (
+				C31F7049AC0354FCECE745A9599C2521 /* WXApi.h */,
+				611C6EDDB73F1AA9199E69B33505C961 /* WXApiObject.h */,
+				43CA01A0568A9E093F0B577ACBAB9856 /* Frameworks */,
+			);
+			path = WeChatSDK;
+			sourceTree = "<group>";
+		};
 		324AF13800F065D46346869852E8FA2C /* ViewManagers */ = {
 			isa = PBXGroup;
 			children = (
@@ -894,6 +907,14 @@
 			isa = PBXGroup;
 			children = (
 				313323175B0B7418D6D0166E5C74A4E4 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		43CA01A0568A9E093F0B577ACBAB9856 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3D02F36597026838F4E2AE3A6493DBCE /* libWeChatSDK.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1043,6 +1064,7 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				E454A45FE4EE2E7E929069F4A706045D /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				E3ABE5E9847CFB407B97435B924FD570 /* Pods */,
 				1F2BBC3778D99777D7B7ECFEA6292CB8 /* Products */,
 				284738BBE9E05300A555CA93DDFB0A59 /* Targets Support Files */,
 			);
@@ -1382,6 +1404,14 @@
 				693D59AD0284D05E69F4FD107F82A61E /* RCTProfileTrampoline-x86_64.S */,
 			);
 			path = Profiler;
+			sourceTree = "<group>";
+		};
+		E3ABE5E9847CFB407B97435B924FD570 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				31C2EF8AA2730E25C5D877853564842E /* WeChatSDK */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		E41C32194E317FAB16CC6F5746F4B9EF /* Executors */ = {
