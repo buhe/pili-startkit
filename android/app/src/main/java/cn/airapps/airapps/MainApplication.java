@@ -8,6 +8,8 @@ import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
+import com.pili.rnpili.PiliPackage;
+import com.qiniu.pili.droid.streaming.StreamingEnv;
 
 import java.util.Arrays;
 import java.util.List;
@@ -23,7 +25,8 @@ public class MainApplication extends Application implements ReactApplication {
         @Override
         protected List<ReactPackage> getPackages() {
             return Arrays.<ReactPackage>asList(
-                    new MainReactPackage()
+                    new MainReactPackage(),
+                    new PiliPackage()
             );
         }
     };
@@ -31,5 +34,12 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     public ReactNativeHost getReactNativeHost() {
         return mReactNativeHost;
+    }
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        StreamingEnv.init(this.getApplicationContext());
+        
     }
 }

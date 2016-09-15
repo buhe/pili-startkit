@@ -23,6 +23,12 @@ PODS:
   - PLPlayerKit/precompiled (2.2.4):
     - HappyDNS (~> 0.3.10)
     - pili-librtmp (= 1.0.4)
+  - RCTPili (2.0.0):
+    - PLMediaStreamingKit
+    - PLPlayerKit
+    - React
+  - React (0.33.0):
+    - React/Core (= 0.33.0)
   - React/ART (0.33.0):
     - React/Core
   - React/Core (0.33.0):
@@ -48,6 +54,7 @@ PODS:
 DEPENDENCIES:
   - PLMediaStreamingKit
   - PLPlayerKit
+  - RCTPili (from `../js/node_modules/react-native-pili/ios/RCTPili`)
   - React/ART (from `../js/node_modules/react-native`)
   - React/Core (from `../js/node_modules/react-native`)
   - React/RCTActionSheet (from `../js/node_modules/react-native`)
@@ -60,6 +67,8 @@ DEPENDENCIES:
   - WeChatSDK
 
 EXTERNAL SOURCES:
+  RCTPili:
+    :path: "../js/node_modules/react-native-pili/ios/RCTPili"
   React:
     :path: "../js/node_modules/react-native"
 
@@ -68,9 +77,10 @@ SPEC CHECKSUMS:
   pili-librtmp: bc768bc3971edad732fd5e66f0ee991fa1a0a257
   PLMediaStreamingKit: 64d4416ad8a39b3e63515cea52face395d048614
   PLPlayerKit: 30e419fa90e84df34922e6dd5d5833d7e4348bf4
+  RCTPili: e32f78dd50a82314871f4a3813eac867ec25d45c
   React: 46edc166689ba71b0b6cf11e64dbdb258d177089
   WeChatSDK: 2331356d1c18d52a52d19d5118974d5ad2d36eea
 
-PODFILE CHECKSUM: 62b1118ef84a0ffb67b650b4b276daed716aa4dc
+PODFILE CHECKSUM: ed5fab7956187d288bb5b751c46ae72264410bfe
 
 COCOAPODS: 1.0.1

@@ -20,7 +20,7 @@ target 'airapps' do
   pod 'WeChatSDK'
   pod 'PLMediaStreamingKit'
   pod 'PLPlayerKit'
-  #pod 'RCTPili', :path => '../js/node_modules/react-native-pili'
+  pod 'RCTPili', :path => '../js/node_modules/react-native-pili/ios/RCTPili'
   target 'airappsUITests' do
     inherit! :search_paths
     # Pods for testing

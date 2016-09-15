@@ -1,1 +1,4 @@
 include ':app'
+
+include ':react-native-pili'
+project(':react-native-pili').projectDir = new File(settingsDir, '../js/node_modules/react-native-pili/android')
