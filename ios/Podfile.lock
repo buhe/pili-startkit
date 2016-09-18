@@ -49,7 +49,6 @@ PODS:
     - React/Core
   - React/RCTWebSocket (0.33.0):
     - React/Core
-  - WeChatSDK (0.0.1)
 
 DEPENDENCIES:
   - PLMediaStreamingKit
@@ -64,7 +63,6 @@ DEPENDENCIES:
   - React/RCTText (from `../js/node_modules/react-native`)
   - React/RCTVibration (from `../js/node_modules/react-native`)
   - React/RCTWebSocket (from `../js/node_modules/react-native`)
-  - WeChatSDK
 
 EXTERNAL SOURCES:
   RCTPili:
@@ -79,8 +77,7 @@ SPEC CHECKSUMS:
   PLPlayerKit: 30e419fa90e84df34922e6dd5d5833d7e4348bf4
   RCTPili: e32f78dd50a82314871f4a3813eac867ec25d45c
   React: 46edc166689ba71b0b6cf11e64dbdb258d177089
-  WeChatSDK: 2331356d1c18d52a52d19d5118974d5ad2d36eea
 
-PODFILE CHECKSUM: ed5fab7956187d288bb5b751c46ae72264410bfe
+PODFILE CHECKSUM: 6dcc4d5c3cd713de093d93e95ab56fe589c8045c
 
 COCOAPODS: 1.0.1

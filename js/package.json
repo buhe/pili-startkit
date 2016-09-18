@@ -11,6 +11,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "react": "^15.3.1",
-    "react-native": "^0.33.0"
+    "react-native": "^0.33.0",
+    "react-native-pili":"^2.0.1"
   }
 }

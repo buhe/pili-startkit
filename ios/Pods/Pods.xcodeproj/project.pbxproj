@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01434075420B08CC4232C4AB1051C309 /* pili-librtmp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DFED91A11A6BA2AB61184AE555FDC0 /* pili-librtmp-dummy.m */; };
+		01434075420B08CC4232C4AB1051C309 /* pili-librtmp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD540BC9AB10CBA514A84C3476F04AF /* pili-librtmp-dummy.m */; };
 		01518C255E8EC546353B90F1B84C71EE /* RCTModalHostView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2943BEBB4167BF0FCC1FF3F042DBD17F /* RCTModalHostView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0163F0DA7C1E50677D46AEB1FB0A896F /* ARTBrush.m in Sources */ = {isa = PBXBuildFile; fileRef = 537567301BD44957756B003B153BADE0 /* ARTBrush.m */; };
 		020256AB5F157DBC061D9924AFB6B9D5 /* RCTTabBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A6CA01B6941668000FBD04B74F11B70 /* RCTTabBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		029285EC77CDEBB2C89A32E90A03C014 /* RCTActivityIndicatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = A67D9D3AD2B44EC851309905F7DB4A7D /* RCTActivityIndicatorView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		029292E8EA2EA76B6DF35E69345C671F /* QNDnspodEnterprise.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FAA5789425BA3795A22DEBE84B3D79A /* QNDnspodEnterprise.m */; };
+		029292E8EA2EA76B6DF35E69345C671F /* QNDnspodEnterprise.m in Sources */ = {isa = PBXBuildFile; fileRef = E3978591783CC5D29D6C2A3930F91761 /* QNDnspodEnterprise.m */; };
 		04364932B6F852A271AD49B5EA45882B /* RCTText.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5CC7D0EA34886BCAAEB54849CC6D88 /* RCTText.m */; };
-		04CD312F37D85B5D89BDD95006A15D4F /* QNDnsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B22FF1E52AC24530B9AC3DD66844E2E2 /* QNDnsManager.m */; };
+		04CD312F37D85B5D89BDD95006A15D4F /* QNDnsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1769D0B2E536EBC6A74F90F238F691E7 /* QNDnsManager.m */; };
 		056FDC814F30552C8DE7132891A4EE3F /* RCTDatePickerManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E388B75E7C4769AC1819B11F2D54C0 /* RCTDatePickerManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		05891CF6A744C518912DECEA03A0A5C5 /* RCTBridgeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 3473C20B1D1CCEEA965A2E12AD424467 /* RCTBridgeDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		05C5862B1044402694E52BFE1B325981 /* RCTRootShadowView.h in Headers */ = {isa = PBXBuildFile; fileRef = C1099528D793F25625E4E92C86A963A6 /* RCTRootShadowView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		075D6E40E9412363D9ED20FDACE999AA /* RCTRefreshControlManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DD3E40AF6F55A3C65BAD1843E24229B3 /* RCTRefreshControlManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		08464F74EEB7A877C5C5493F8E7BB504 /* parseurl.c in Sources */ = {isa = PBXBuildFile; fileRef = 278A854296AE55C8A6FC64F96A14F4BF /* parseurl.c */; };
-		0850D995837DBD9852734997A15D6CC5 /* QNGetAddrInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 005E9F41D436CEDD826B7A45E6D59E1D /* QNGetAddrInfo.m */; };
+		08464F74EEB7A877C5C5493F8E7BB504 /* parseurl.c in Sources */ = {isa = PBXBuildFile; fileRef = C36E4932C58C424D5FD7651F27509664 /* parseurl.c */; };
+		0850D995837DBD9852734997A15D6CC5 /* QNGetAddrInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 697FEF25401BE49ED829DC264938BAF9 /* QNGetAddrInfo.m */; };
 		0880A957B7BFCECE7C3083AAFFEC7043 /* RCTActionSheetManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AB7B556A8AAC8C4ABE79CBEAF2FF0C3 /* RCTActionSheetManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		089FA2CEB5BF93DBA3AA63E036D10C6C /* RCTTextManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F005AC64A85D679805A8BB8552BEDA1 /* RCTTextManager.m */; };
 		08E8C50F83C2B4879F9323FC1B4898F8 /* RCTDatePickerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C5C78F04E9ED6DCBCD06C836832E24B8 /* RCTDatePickerManager.m */; };
@@ -30,7 +30,7 @@
 		098FD633C1C61038273D6C97A41B385A /* RCTSourceCode.h in Headers */ = {isa = PBXBuildFile; fileRef = 55F13677657BCA5C770B790C6255859E /* RCTSourceCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0B633B27D01102AFEF43A512AC7A3BD0 /* RCTNetworkTask.m in Sources */ = {isa = PBXBuildFile; fileRef = F07442E457F6E509EE8E8522FD6416EC /* RCTNetworkTask.m */; };
 		0BF833BF1D57F208F8142FFDE09AC0C9 /* RCTJavaScriptLoader.h in Headers */ = {isa = PBXBuildFile; fileRef = 59393AE4EB219BFF855A8C87C68A50AB /* RCTJavaScriptLoader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0CDE2CA955C8125A61CE7E33912C77AC /* QNDnspodFree.h in Headers */ = {isa = PBXBuildFile; fileRef = A1F8934FAECECBCB80D5FD7985B637BB /* QNDnspodFree.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0CDE2CA955C8125A61CE7E33912C77AC /* QNDnspodFree.h in Headers */ = {isa = PBXBuildFile; fileRef = 143AEAD8588F62090AFEEF3B15879151 /* QNDnspodFree.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D0F7A7EF1322476DBDAA8FC1CFCC6F0 /* RCTSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 4249FD22D9E9413980E8A8D3B68E66F7 /* RCTSwitch.m */; };
 		0DAD3A1AA447AED283D21F3E4AF3D5E7 /* ARTRenderable.h in Headers */ = {isa = PBXBuildFile; fileRef = AC7D313E9567CBC98FA496D58BCCB1A0 /* ARTRenderable.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0F5AD0B18358915183E880A5D88579D9 /* RCTAlertManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8396B877C2FAFE7BB9A5AFB818C9FACA /* RCTAlertManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -54,7 +54,7 @@
 		1C3AB4EB3EFF6BB1B0456A5486BF8B66 /* RCTTouchHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AB09A09A2A61B00B97A3E4B736C9E0 /* RCTTouchHandler.m */; };
 		1C9510532085D48EF52B159555D36666 /* RCTProgressViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = EF93E8E0CEA8D7E336CA74A6CBA2830E /* RCTProgressViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1D11912A81ACA49C627CCDEDD063ACA4 /* RCTBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = E1C5B974A823D4F37BE26827D9DFAC3B /* RCTBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1D310FC6C5F145244DDC2F25F5F4C52D /* dh.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E63247FC073AEFDFBCC5BB7A7936687 /* dh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1D310FC6C5F145244DDC2F25F5F4C52D /* dh.h in Headers */ = {isa = PBXBuildFile; fileRef = F01584534F3100FC81C891E231DD1843 /* dh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1DD988E321495D0F0E8C30FF26010FB7 /* ARTCGFloatArray.h in Headers */ = {isa = PBXBuildFile; fileRef = F01611B90225EB9432359709360A4B39 /* ARTCGFloatArray.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1E18B784F065680B414A286E7A024908 /* RCTErrorInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7784D1143BCB8D8A4003752D7D5382E5 /* RCTErrorInfo.m */; };
 		1EF80DA85B71B2453BEF48E20B4127ED /* RCTAppState.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A8D847ACBC792DAFC737CF274BA3D6 /* RCTAppState.m */; };
@@ -63,18 +63,18 @@
 		1FC23C4A802644ADC34782628D2A9019 /* RCTSwitchManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A3CFD8DA2462B556CD8E09EB7F4FE18A /* RCTSwitchManager.m */; };
 		1FF4E39D88B110705FE2B0FCF1715D9A /* RCTDevMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = BAFEBE73F89E0F59FED950FC65799D4F /* RCTDevMenu.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		216A984A91B819F9EF77792CDC16DD8A /* RCTBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D7C6B7E381E8262E800C0CA8D936F49 /* RCTBridge.m */; };
-		21BAF04B78C72F2D4FFE1F6E665C77DE /* QNTxtResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = 256ACD48DE4F71B546672AE677B4D672 /* QNTxtResolver.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2231AAAB5515DC6A09B6B136B3076DF5 /* QNRefresher.m in Sources */ = {isa = PBXBuildFile; fileRef = 80E6AB2FA624B49DBD8ADDB32B61EC77 /* QNRefresher.m */; };
+		21BAF04B78C72F2D4FFE1F6E665C77DE /* QNTxtResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = 5995837D013819F2253786A4AB5D3582 /* QNTxtResolver.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2231AAAB5515DC6A09B6B136B3076DF5 /* QNRefresher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F813A3B4027D1D9D84D3BE859FA3BBA /* QNRefresher.m */; };
 		22BACE6348EF135373D26A233A1B1A5A /* RCTModalHostViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9EBEFA343985A530E71334BA943F /* RCTModalHostViewManager.m */; };
 		245E279C1AF50920D9BD8E4C7C0F87BC /* RCTImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A6EB73A045B13C7C3BCF3D312E1275 /* RCTImageLoader.m */; };
 		278AB691802E7E72C57ADAC2A08B6F90 /* RCTWebViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C378BE503ECEA3B9EEBFFE9AC30EBE7E /* RCTWebViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		278F045726A360D8EB88C868E14E98F4 /* RCTLocationObserver.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D1C1FA1404B8FFB1427F79A7A5ADB67 /* RCTLocationObserver.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2919CB33DB009C9D4DB3990B0A366ED0 /* RCTWebSocketManager.h in Headers */ = {isa = PBXBuildFile; fileRef = B2444412DAC8939EE6C015A2377F34D8 /* RCTWebSocketManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		29869CE6733D7BEA6986E8B39D29E1ED /* QNIP.m in Sources */ = {isa = PBXBuildFile; fileRef = 4163AEE0F020854AC310A61A1A00B805 /* QNIP.m */; };
+		29869CE6733D7BEA6986E8B39D29E1ED /* QNIP.m in Sources */ = {isa = PBXBuildFile; fileRef = D7972504AC40E2EA02582595AA56F636 /* QNIP.m */; };
 		29C55FB1651BAB23854FE62D63017A5B /* RCTDisplayLink.m in Sources */ = {isa = PBXBuildFile; fileRef = FBADDE589323D6B0320C5093401C4DCE /* RCTDisplayLink.m */; };
 		2A34C71DF75B91A9396BDC42185E2EF0 /* RCTWebSocketModule.h in Headers */ = {isa = PBXBuildFile; fileRef = A62E62CEA88F60F387CEC37C79797C5A /* RCTWebSocketModule.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2A8B81D113EA67995FCD118531E68B02 /* RCTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 34FB96AC57238677056B3FC6C5B363D0 /* RCTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2B513ECF64385743D74E3B23B38F6011 /* QNDnspodFree.m in Sources */ = {isa = PBXBuildFile; fileRef = 57B31387A836F4529D685E24489F38AC /* QNDnspodFree.m */; };
+		2B513ECF64385743D74E3B23B38F6011 /* QNDnspodFree.m in Sources */ = {isa = PBXBuildFile; fileRef = 088FF061E0E5FE47E2946A040709133C /* QNDnspodFree.m */; };
 		2C60B94B7416993FCD8A13F086C321FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 241BC2899E23E73A2E7D8C37E9135AA2 /* Foundation.framework */; };
 		2CA75AC809AF7BAC1CE6A82DD74F7236 /* RCTNavigator.h in Headers */ = {isa = PBXBuildFile; fileRef = BB6848A730CC9C79665344305AF8727F /* RCTNavigator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2CE147F992B0588042383649A6DA1996 /* RCTPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 01DA258149225695AC1E4CE8C26428DF /* RCTPicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -93,35 +93,35 @@
 		3601C9C0AC31702009ED2D0AC010880B /* RCTBundleURLProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 91B1982BB95B08333D863574E0EE4B28 /* RCTBundleURLProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		362E4BC487ED5BCE79DE737F5D822494 /* RCTTabBarManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 83CD3EE8B15D129E4334B735DC5A6DBF /* RCTTabBarManager.m */; };
 		36BADE957AECFF545E70A1B0E721DAE5 /* RCTSegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 97B104E543228DF4706DC5FB81F72C9A /* RCTSegmentedControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		37A11EA61D87BF82EAC0B84B07857E8D /* QNHosts.m in Sources */ = {isa = PBXBuildFile; fileRef = F0112B1A8AB27126380A152AF305AC38 /* QNHosts.m */; };
+		37A11EA61D87BF82EAC0B84B07857E8D /* QNHosts.m in Sources */ = {isa = PBXBuildFile; fileRef = A6B4A49FDEE1F947F20FAF3856EBF337 /* QNHosts.m */; };
 		37C8EB17CC59CEB42ACDA01F59D58767 /* RCTMapAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = D9B1B23DF9D97E8074CBC3B4E19D52D6 /* RCTMapAnnotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		38374B9DFAA3A02B4CDD4FA207C7DBCA /* amf.h in Headers */ = {isa = PBXBuildFile; fileRef = 19C2596927DED4BE3A9809F8D34E7545 /* amf.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		38374B9DFAA3A02B4CDD4FA207C7DBCA /* amf.h in Headers */ = {isa = PBXBuildFile; fileRef = 33DFD58F66312D9C3758178D412FABE0 /* amf.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		38910B2F7276F10243EF812771749C8C /* ARTContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = BE1B2ED055800CF09AB624D371A899C9 /* ARTContainer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		38F964E0B6BCCD8D1BF1D14D3E8D2ACE /* RCTPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E56125F61F99F26FDFF11BBB4845DF /* RCTPlayer.m */; };
-		397B373FA00B655FF1DD50F9C64E5C49 /* QNResolvUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 65743D0922DEBDA79E5AB938E8D36736 /* QNResolvUtil.m */; };
+		397B373FA00B655FF1DD50F9C64E5C49 /* QNResolvUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = FF60A7DC20594E8234C4FBA18DCBBC22 /* QNResolvUtil.m */; };
 		39F40376F1D68B3D4B65F44FF7B5B169 /* RCTKeyCommands.m in Sources */ = {isa = PBXBuildFile; fileRef = 382704D1267345341FC2CEE557A9494C /* RCTKeyCommands.m */; };
-		3ADD0967301BC6574E7B73450DDD3898 /* QNResolverDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = B7F6A1B0A785F2979A1D8EE58AC4E806 /* QNResolverDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3ADD0967301BC6574E7B73450DDD3898 /* QNResolverDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = B0334BE3E2816720A73B5F653397768A /* QNResolverDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3AF09E9ED693CDE5834ED2D98894A375 /* RCTBorderDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = C548244814437D2D31BF350D6963DF17 /* RCTBorderDrawing.m */; };
 		3C19555A84E5B97881C8E1459808740C /* RCTNetworkTask.h in Headers */ = {isa = PBXBuildFile; fileRef = C66038FDF59B26E2CDECF45C7705142B /* RCTNetworkTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3C3E2D22F48EE3C9A89AE2CCF964580E /* Pods-airappsUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C155E7A49B7F65FD8D9E034B0310E1EE /* Pods-airappsUITests-dummy.m */; };
-		3D21E64FE48AEB1FE7DE5329924BC61F /* QNHex.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB96ED68D92BF989A02BB0695C82866 /* QNHex.m */; };
+		3D21E64FE48AEB1FE7DE5329924BC61F /* QNHex.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2E317065CE493DDB3D5B68E515C47B /* QNHex.m */; };
 		3EBDA5081B2399BD3DAC7212BB561DE1 /* RCTDevLoadingView.h in Headers */ = {isa = PBXBuildFile; fileRef = 51F2F6B702BC4CF7893DDFCC4D71FDEC /* RCTDevLoadingView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FEA226CD6F3954B31E88D576414BD87 /* RCTLocationObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 382DE00300A8889EEEF21E6A30FA703F /* RCTLocationObserver.m */; };
 		40EB00522FB0BDD65B371C2C7CE04CCC /* RCTRedBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F76DBFBCA9CE0C554A4C74B39514A /* RCTRedBox.m */; };
-		418DB458CB140D0601919A2483CF5945 /* QNDomain.h in Headers */ = {isa = PBXBuildFile; fileRef = 92E265C32E19D99C5982E284B6B9B848 /* QNDomain.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		418DB458CB140D0601919A2483CF5945 /* QNDomain.h in Headers */ = {isa = PBXBuildFile; fileRef = 48253F91D0652EE1C7833C1D0A8E0849 /* QNDomain.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		41F26AC40146BEDF7A2B24D54BEEED49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 241BC2899E23E73A2E7D8C37E9135AA2 /* Foundation.framework */; };
-		426D104B0972B24B958B15F0C1CF0CF0 /* QNResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 36180851DCAF20BCD0AA6EBEAD89380B /* QNResolver.m */; };
+		426D104B0972B24B958B15F0C1CF0CF0 /* QNResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD46F3F24615CDD392627CA64DEB3AA /* QNResolver.m */; };
 		42DB92B8C392A2CCAE583C9F0924B82F /* ARTText.m in Sources */ = {isa = PBXBuildFile; fileRef = E2AAC8359460832CE52AEEDE99B1FA72 /* ARTText.m */; };
-		4334D7694959E92DF001DAE26DAA7F51 /* QNDes.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4B31F731774953C64676019C0B17A8 /* QNDes.m */; };
-		4482FA087AB33DD3B710C5509F13A82E /* error.h in Headers */ = {isa = PBXBuildFile; fileRef = FB04B3E199CA3B246C37B73C1807D7B0 /* error.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		449677A54DC9CDB8C8A47BEE12BB0A2E /* hashswf.c in Sources */ = {isa = PBXBuildFile; fileRef = 313E547793E59DA1020DA4878E285DB4 /* hashswf.c */; };
+		4334D7694959E92DF001DAE26DAA7F51 /* QNDes.m in Sources */ = {isa = PBXBuildFile; fileRef = C5416E28D98C4F1C4B45EBCBB9D3AA12 /* QNDes.m */; };
+		4482FA087AB33DD3B710C5509F13A82E /* error.h in Headers */ = {isa = PBXBuildFile; fileRef = D5658A50E26EAE87E2231FD56390E20D /* error.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		449677A54DC9CDB8C8A47BEE12BB0A2E /* hashswf.c in Sources */ = {isa = PBXBuildFile; fileRef = 43974832F29B03F6A683FC35DB0D5E01 /* hashswf.c */; };
 		4522A487DBCD9DBEED3A0A5F6537EB21 /* RCTSliderManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABBA879C45DEEDE66A3BE83BA2D02CD /* RCTSliderManager.m */; };
 		458366D46A35FF46EC397680B945EB1D /* ARTRenderableManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5718FCD39BF02E6B4BF956C478D6136B /* ARTRenderableManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		45AF339E03629E3A1824E612403EC1BD /* RCTNetInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BC30A04FC95C7206040B2127CAD45C8B /* RCTNetInfo.m */; };
 		469D3DDE0F3570A0349A632A168189E2 /* RCTWebSocketExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = 218D6D18DB90CE39A1FC134115626967 /* RCTWebSocketExecutor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		47A4D96F3355958FE891B8A6CD27ECE5 /* ARTNodeManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D18B89E761FB9E72A9F8872FFDD371E0 /* ARTNodeManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		48DECFDBEF3EBA8B31BD2DAA01565C08 /* RCTPlayerManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3641F4DA5D3E965C37A3E4696407DD59 /* RCTPlayerManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4A79B8A7B6A88AAC80F82A6515020F99 /* QNHijackingDetectWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C66A799B307D2FE80B9AF5AF02DE08B /* QNHijackingDetectWrapper.m */; };
+		4A79B8A7B6A88AAC80F82A6515020F99 /* QNHijackingDetectWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 1844E73FA2D40B20134B0A1E2264F6C4 /* QNHijackingDetectWrapper.m */; };
 		4AF67934B93E107BE8C29DDB6B166773 /* RCTI18nManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A9189545D4C94CAA5AE5256BB433A639 /* RCTI18nManager.m */; };
 		4B9FCA93FC6311620C355051F8C80A16 /* CSSMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = EE92CDDA15C0578AD09BAAAD3041101B /* CSSMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4D15B97529769A24850A591FE97F01B1 /* RCTProfile.h in Headers */ = {isa = PBXBuildFile; fileRef = D48CBB5849230FE13844566743D21048 /* RCTProfile.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -129,7 +129,7 @@
 		4F83C0D77BB119CB36ED4C251FB24AB3 /* RCTComponentData.h in Headers */ = {isa = PBXBuildFile; fileRef = 226F2652CACD88E54787E14959A72298 /* RCTComponentData.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		50ED6D3F5697F580D2D4D873FAA0FC46 /* RCTImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD7216054182567F4C5ACB0F7EAF7EE /* RCTImageCache.m */; };
 		5414AFCCD96FCEDDA28031565B4E3152 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = ADB38EE7724B63753364E493E4B9E22B /* Reachability.m */; };
-		544109A51CDD64A6F8AC7820D0383707 /* QNResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = 81D65433C6C2E1D4AA5E0518EA0E379E /* QNResolver.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544109A51CDD64A6F8AC7820D0383707 /* QNResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = A358CB9B823E65F769B30EF195AE99D7 /* QNResolver.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		54648CB95D21E7E1CBBB07EDB9C2812A /* RCTMapManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D9B5A41187803D8D5B73A1BEEC1BD164 /* RCTMapManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		548BEA37F1D2B23F4AB223653E5B1EE4 /* RCTTextFieldManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B0AD044AC048B48A6B51EC9C90FB231 /* RCTTextFieldManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		54FEF0E2BAE17C4534DFA1A45139473D /* RCTLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 53462C1140472E2FAD1C27FF4D65D341 /* RCTLog.m */; };
@@ -150,7 +150,7 @@
 		5FE1F37F08BB12682CFA1067486E1E5C /* RCTResizeMode.m in Sources */ = {isa = PBXBuildFile; fileRef = E471EFBAB778A26E5F4B1476EE670A53 /* RCTResizeMode.m */; };
 		6056E872AD7938AA453D20BA2C4B87F9 /* RCTAccessibilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2DFD94E5B963C89F12990A8BCB530C /* RCTAccessibilityManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		60705F8E209BEF18433E27920407B1D5 /* RCTBatchedBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 11EFBD936E185AFA3B60E487E6C67C7A /* RCTBatchedBridge.m */; };
-		614172618531148E73F7587C132D3325 /* rtmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 54CFECC45EC831BFAF100EF277F213EE /* rtmp.c */; };
+		614172618531148E73F7587C132D3325 /* rtmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 0A4498CF0512E054D9F92EEFC33CF6AC /* rtmp.c */; };
 		61465BC5F789CEAF260FD19C68E17FD8 /* RCTRootViewInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 2434CDD928451CD25EE35F7359CD46D7 /* RCTRootViewInternal.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		62908B3FF54FF661AE0147BA36566C28 /* RCTImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = AEB25E958388F595B7F481DF9C0F4AEA /* RCTImageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		62CD0E524A3EA24A34289A5BDB564FC3 /* ARTShape.h in Headers */ = {isa = PBXBuildFile; fileRef = 18680D0324820DB8025E732272737DB7 /* ARTShape.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -158,7 +158,7 @@
 		63E76A9F3F889B688DC3BB27CF6501E8 /* RCTConvert+CoreLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 081EE736694990C8F9212D9E92D26F5F /* RCTConvert+CoreLocation.m */; };
 		63F1D052378A081C665571646FB56FAC /* RCTShadowView.h in Headers */ = {isa = PBXBuildFile; fileRef = 96A60354D8875A2D40D709CD8F9AE6A0 /* RCTShadowView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		65B27322E8F34104A94EC6CAE214973E /* RCTTextViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CD6E229C0E182AB2A4E5B9647ECFFEF5 /* RCTTextViewManager.m */; };
-		66E84AFE041AE92454B80B3A416E12DF /* rtmp_sys.h in Headers */ = {isa = PBXBuildFile; fileRef = 88121CF40E0EA6F9ED73E808AB7FA0AF /* rtmp_sys.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		66E84AFE041AE92454B80B3A416E12DF /* rtmp_sys.h in Headers */ = {isa = PBXBuildFile; fileRef = A99D1231ABE1AE4B9144A1DCE96F3C20 /* rtmp_sys.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6737B866A315E554D5C098C593A472F4 /* RCTImageSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 437D5D53FF26180F9E1BEB6C14E118DA /* RCTImageSource.m */; };
 		68AE62AF33F95D0FABA7CBBB169FF100 /* ARTRadialGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 65981B72285242AC4068F86920DEDA59 /* ARTRadialGradient.m */; };
 		6947AB8467DAA2444F2952B953EA7023 /* RCTAssert.h in Headers */ = {isa = PBXBuildFile; fileRef = 768EBE9E6E8CAE72B92235299AFA16BD /* RCTAssert.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -168,17 +168,17 @@
 		6BE63D09B26128BEAFF46B6849B55403 /* ARTSurfaceViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F99873CAE5BC56DDB6035DDAD54C8AEB /* ARTSurfaceViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6CB6046BF8B6BFE9AE8E7848C1A47B97 /* RCTParserUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E12BD08C2EF0602555E59D1C7AF70908 /* RCTParserUtils.m */; };
 		6D579AD6CE48899A28A5BF919A513AFD /* RCTI18nUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 907A9C5843469B6F16E13A4A0E3A0A3C /* RCTI18nUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6DB0679652CDB744FD4670AE73F0EA32 /* HappyDNS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A1651DA1C211E317E1F4067A0921EA19 /* HappyDNS-dummy.m */; };
+		6DB0679652CDB744FD4670AE73F0EA32 /* HappyDNS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AF5925406326B5C5326E9F52E69A9190 /* HappyDNS-dummy.m */; };
 		6E1AD209012F087AE665AA8FC7417EE4 /* RCTShadowText.m in Sources */ = {isa = PBXBuildFile; fileRef = E43C3E7E8C140DCF91BA4A2154D08C98 /* RCTShadowText.m */; };
 		6E9E8511F727B9D5B4502ECCA483DB16 /* RCTEventDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F4FE64625FB52FF86054A222E010DA8 /* RCTEventDispatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6F3343B8104E5F4BEF4BA01BC1E85C1C /* RCTImageBlurUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E244D656474E6ECC6F3A526E21FE2AB3 /* RCTImageBlurUtils.m */; };
 		6FE3496F910FE1E0F54E3700550CEB52 /* RCTFileRequestHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 50B73A8A25BCC2BCA5B6A9383D794A4C /* RCTFileRequestHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		70245B2DDC720C1599AE2458074D9F0D /* RCTDatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FD6D33D9FFED49583842BB5C0F8CB63F /* RCTDatePicker.m */; };
-		703080050561A77F07DAFB8B6D697BF7 /* QNAssessment.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D0868D311556990588B4485AF84315A /* QNAssessment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		703080050561A77F07DAFB8B6D697BF7 /* QNAssessment.h in Headers */ = {isa = PBXBuildFile; fileRef = D004A3AD4A7DE8A2D7E7C04FF43F9317 /* QNAssessment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		71330BAF3F927070067597B00ECD9596 /* RCTTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 633DB29CBA87EF4C057D503DAC1D6109 /* RCTTextField.m */; };
 		72F5B3AD6C7BF151F35D235DD2349712 /* RCTDataRequestHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 3506458C85926A069733418B1B79E185 /* RCTDataRequestHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		730B4CCBA7BFACCFDF74B7429A4F5F46 /* CSSLayout.c in Sources */ = {isa = PBXBuildFile; fileRef = 168155DCE2CFC8BE07D8BEBA74CCB4F9 /* CSSLayout.c */; };
-		7350D7C8A66419BFE87DF3F6B7B721F7 /* QNHex.h in Headers */ = {isa = PBXBuildFile; fileRef = DD260D23343964558225D94414ECEAB5 /* QNHex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7350D7C8A66419BFE87DF3F6B7B721F7 /* QNHex.h in Headers */ = {isa = PBXBuildFile; fileRef = 419A68C39415D084E45E56C0ABADBA3A /* QNHex.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		74EC41382EAAE6D1E422FF33CC8281CF /* RCTImageStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 154F0595B125A9DE512C4068D2D5A9E2 /* RCTImageStoreManager.m */; };
 		74ECC0516CCA358AD844A95EC59EB22D /* RCTDatePicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 26F22770DD14F7F457FC994D2BDC8CA4 /* RCTDatePicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		75334285315C9F4C26E4922BB8799664 /* RCTShadowRawText.m in Sources */ = {isa = PBXBuildFile; fileRef = CFB7ED7F50729EB2D94DAE4BF03E4C20 /* RCTShadowRawText.m */; };
@@ -200,10 +200,10 @@
 		7F6F15FA4816F1BF85271D8F00B7DAAD /* RCTStreamingManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 20094E0E0AAE02F8F48A5F34A8A67C32 /* RCTStreamingManager.m */; };
 		813DB58D82B5E9FFA4C63E3E1F880E39 /* RCTSegmentedControlManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9223152EE8A7D18B5DEA27DDF3975B51 /* RCTSegmentedControlManager.m */; };
 		813EF4A60B1A7978D1C3E730AD446DBD /* UIView+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = E4F3C684C0B4F03C0726DFCFDBB7F71B /* UIView+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81D9621463A7404DAC77839259365800 /* rtmp.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D989D32751FB418333FEAD4D234D1E3 /* rtmp.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8231A866A58DF8BF7400D745C46787A6 /* QNResolvUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = C7043DB24B2DDBDCA45EA9B79B478157 /* QNResolvUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		81D9621463A7404DAC77839259365800 /* rtmp.h in Headers */ = {isa = PBXBuildFile; fileRef = A6F7CA9DE0D8EA76B38625CFAE819401 /* rtmp.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8231A866A58DF8BF7400D745C46787A6 /* QNResolvUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 877C1719423C5B7F4E4DD60C00B8C10A /* QNResolvUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		82524CF75D7ECED2A1C49BCCB8268259 /* RCTBridge+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 281D0B48FA04AFC2E91F065B7EA646E8 /* RCTBridge+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		830AF14825B077808B6E3F6DD67C8170 /* QNDnspodEnterprise.h in Headers */ = {isa = PBXBuildFile; fileRef = DE89421ECA8FA371CC9175BBF72C6489 /* QNDnspodEnterprise.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		830AF14825B077808B6E3F6DD67C8170 /* QNDnspodEnterprise.h in Headers */ = {isa = PBXBuildFile; fileRef = DF9787CDCD31D1E1A799984E31A15FC2 /* QNDnspodEnterprise.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		831ECB1D3F230036B45FF8AAD642A197 /* RCTAutoInsetsProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 975105520727D511DD95F9ED1C16297C /* RCTAutoInsetsProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8329D5FCA956E698377C0645017C7B09 /* RCTPlayer.h in Headers */ = {isa = PBXBuildFile; fileRef = BCA43DE9A7877405BF52DA9EC6D06744 /* RCTPlayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		83D86C4978B1B5DB6730FF208B47B419 /* RCTModalHostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA0F4190BB3ED74589FF1D3FB9DAC80A /* RCTModalHostViewController.m */; };
@@ -222,7 +222,7 @@
 		8A9131E87E5150CC187FA1451FD8962D /* RCTSRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 9564ED4146D83B1F5D445246EFAF72DD /* RCTSRWebSocket.m */; };
 		8B394D0B3704367E054F163436D11AA5 /* RCTPili.h in Headers */ = {isa = PBXBuildFile; fileRef = 68046668CE95E4A5C98529D8914CF12E /* RCTPili.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8B6C78F6B302D54CA38A0711F23A7C98 /* RCTView.m in Sources */ = {isa = PBXBuildFile; fileRef = 87399286C2F396A8A513AD583AE6EEA5 /* RCTView.m */; };
-		8B7B75BDDA8FB5F466A5CB10D5811A26 /* log.h in Headers */ = {isa = PBXBuildFile; fileRef = A5493BC847828AB2BC87B4B215D1ABEA /* log.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B7B75BDDA8FB5F466A5CB10D5811A26 /* log.h in Headers */ = {isa = PBXBuildFile; fileRef = 98E1E68D6C05E216507C4B4F9D130094 /* log.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8C565A11D5AF0579907DF38DAAD65623 /* RCTNavigatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F3418D5FA29A8BEA72D09B14BA198F44 /* RCTNavigatorManager.m */; };
 		8C7D2F42ACD3AE1B4BC8364A3E05A6E6 /* RCTProfileTrampoline-arm64.S in Sources */ = {isa = PBXBuildFile; fileRef = F8DD60115F3B9A9442DCFF2AFD47055E /* RCTProfileTrampoline-arm64.S */; };
 		8CD06D1869F5DDED735BDE270D3A273B /* CSSLayout-internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C50CB53BE1F853C5FEAB849565FFEA7 /* CSSLayout-internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -233,23 +233,23 @@
 		9180C2DF57B61A78F54CAB91A4A293BD /* RCTSourceCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5E77E5A4F707D8120A8F148D154901 /* RCTSourceCode.m */; };
 		9291EA638C9554834CAF20EA30E1C000 /* RCTJavaScriptLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = F6695AFB2BFF4C558B36033D3DAEE462 /* RCTJavaScriptLoader.m */; };
 		92CFB78922CAFFB24DBFAA69CE25785F /* RCTSwitchManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 4579FBA2943E1EA27CBB58066E95CC05 /* RCTSwitchManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9312CCF6629B882D670E8AF398A91172 /* QNRefresher.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E32769740E3E263B158E57974A831F3 /* QNRefresher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9312CCF6629B882D670E8AF398A91172 /* QNRefresher.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A7CB133DAD3C1755E14BAC14BE5B2B1 /* QNRefresher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		93226771AB104A55F0319EEF6F22A12C /* RCTPili-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B0FE36572C31232F10FB08554B24E /* RCTPili-dummy.m */; };
 		932A59AF5D1D1E42B8D66CF8F7FA9009 /* RCTTouchEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 5864E2F83710C546379573E5BA538302 /* RCTTouchEvent.m */; };
 		9367A2993C2D57062D870A372BEFDD28 /* RCTClipboard.h in Headers */ = {isa = PBXBuildFile; fileRef = 9569698A101C4A468CDBBC797EC23F45 /* RCTClipboard.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		94417E5D630F0DD170158FEC0C4ECBDA /* QNLruCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 076CA5D6FD25CFB928A519D23CD4EAFA /* QNLruCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94417E5D630F0DD170158FEC0C4ECBDA /* QNLruCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 0285BCD8FCCD012ED50EA5660AB8D603 /* QNLruCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		95839F9131D5ED92513C1FBC97CA2AE2 /* RCTProfile.m in Sources */ = {isa = PBXBuildFile; fileRef = A021A1762F2A8167364127828B9EB517 /* RCTProfile.m */; };
 		958B2CC8303C2D22099E25615F19566C /* RCTNavItem.h in Headers */ = {isa = PBXBuildFile; fileRef = B186059667F1C7D58BB3789A9AF2F9C0 /* RCTNavItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		960FC35CD2F85ECA72CCD0EF553763DB /* RCTRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1B1201AF2B289D5F0BE48705A5417E /* RCTRefreshControl.m */; };
 		974230B1ACAD93346521F492C8F09A5E /* RCTNavItemManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B14CE1F6F85C71AE40165A5F493BBB1 /* RCTNavItemManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		976CE25D7F45DCAD10BCF1FB63807124 /* QNNetworkInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BB064FF431FCC8EF252144B054AEBF3 /* QNNetworkInfo.m */; };
+		976CE25D7F45DCAD10BCF1FB63807124 /* QNNetworkInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1608D9660D11510FFAFDF196D58BF /* QNNetworkInfo.m */; };
 		9793C436B15AD4CDB4A5781149E9B032 /* ARTRenderable.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C23380463BE019F1BD7DB17C9FD25B /* ARTRenderable.m */; };
-		97F7770FEDADFDBFA6ACD9D57A8033B5 /* QNHijackingDetectWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 176D0C04FB22CD628665409B35135F80 /* QNHijackingDetectWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		97F7770FEDADFDBFA6ACD9D57A8033B5 /* QNHijackingDetectWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B4D26B1369268CD483461551652785B /* QNHijackingDetectWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		985F76CC73F5E95F07847C54E6734794 /* RCTTouchEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = F251EC7827E36E553F09F622698D2BF0 /* RCTTouchEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		992E13B0A8DB70AC8A375845BCF48794 /* RCTJSCWrapper.mm in Sources */ = {isa = PBXBuildFile; fileRef = 54B158E99D1A25A928725185D92AF227 /* RCTJSCWrapper.mm */; };
-		993FE475C073DAC4A4262E023A463BA9 /* QNLruCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 205013A80DC15FA5A44AA10F31FE120E /* QNLruCache.m */; };
+		993FE475C073DAC4A4262E023A463BA9 /* QNLruCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A972E9CBA2D827E48F8E2E2FF405E12 /* QNLruCache.m */; };
 		9971A2EAC2364A4A871EA5D7E0D31918 /* ARTPattern.h in Headers */ = {isa = PBXBuildFile; fileRef = 48F10B98DBF683B2EB59FEAA940550E0 /* ARTPattern.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		999BC088CF01F4A8C4FD5343E02BE09B /* amf.c in Sources */ = {isa = PBXBuildFile; fileRef = CD193D33092FDBB526DD3DDDB09FFBCF /* amf.c */; };
+		999BC088CF01F4A8C4FD5343E02BE09B /* amf.c in Sources */ = {isa = PBXBuildFile; fileRef = AD62686D67D2A2FA9202C7B9E2C97F18 /* amf.c */; };
 		99B3C575ED396BBE1125BF19C663EEFC /* RCTWebView.h in Headers */ = {isa = PBXBuildFile; fileRef = 66C9C33AE12154E8851594D5BBC38D98 /* RCTWebView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B77C55B9BEF4BB777063DCC079DF4AB /* RCTNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = BD1F5E0E73E1D154BB0F474B487819D6 /* RCTNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D29A392941DDE16C3B431DD47894083 /* RCTUIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FF3EE20D40BF7D0A5CC6A16B28431789 /* RCTUIManager.m */; };
@@ -259,14 +259,14 @@
 		A08D38A874D9A860FCF4C0431BD17AC2 /* RCTPlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C48054096742AA46F8CC9FBA8B8D62 /* RCTPlayerManager.m */; };
 		A0B184B31D8D84EC0EC7B67EC387F531 /* React-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B88CFB041B5981821DEDC83CBD19E0E0 /* React-dummy.m */; };
 		A221B9049E25316DF3D4B2E0BC22C077 /* RCTActionSheetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BCED45EC12E7201160DFEDEF6090FC07 /* RCTActionSheetManager.m */; };
-		A2ECFC4C875986590F85E7159FB34AFC /* handshake.h in Headers */ = {isa = PBXBuildFile; fileRef = CEA6578EF895C3AEE9BD4C8AEC071099 /* handshake.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A2ECFC4C875986590F85E7159FB34AFC /* handshake.h in Headers */ = {isa = PBXBuildFile; fileRef = C82703BF49726C64040A94051AAFE81D /* handshake.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A31F707BF74737C27FCACCAEC96A386B /* RCTMapAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A3700F4555628C8AB47BA3DD4BCA6F /* RCTMapAnnotation.m */; };
 		A3744BE4329ECCCA2A1A6AC65A3BF997 /* RCTJSCProfiler.h in Headers */ = {isa = PBXBuildFile; fileRef = 0DA68A645464155D40CE57C4C020902C /* RCTJSCProfiler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4E482E31A2BB76B55CA4D75C490FF98 /* RCTSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = C65B89C51C402C4730D7C002A5D25433 /* RCTSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A71FC91472FC07F768A1C42C9154372C /* RCTWebSocketModule.m in Sources */ = {isa = PBXBuildFile; fileRef = E0FD9809BC124BBD817249E50C218A4C /* RCTWebSocketModule.m */; };
-		A86197F4F3C92350321F83ED2B8599DE /* error.c in Sources */ = {isa = PBXBuildFile; fileRef = 49ADE051F02A079B745B1016EF19B877 /* error.c */; };
+		A86197F4F3C92350321F83ED2B8599DE /* error.c in Sources */ = {isa = PBXBuildFile; fileRef = FBA56F20B6F444E304AEF5B042D3CF5C /* error.c */; };
 		A886B7038304C8705AB949D107782A90 /* RCTViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 619CCA1A8041D630576A793F36CF7D09 /* RCTViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A97C2E0AF987237179F2E2DA76CFF703 /* HappyDNS.h in Headers */ = {isa = PBXBuildFile; fileRef = 55178A9F0BB1B6E1275B99E41AF8B64C /* HappyDNS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A97C2E0AF987237179F2E2DA76CFF703 /* HappyDNS.h in Headers */ = {isa = PBXBuildFile; fileRef = 30D351DB067D25C15CEAF5990F436F94 /* HappyDNS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AA3647E73F31A24BB72EF28B3CEA394E /* ARTSolidColor.m in Sources */ = {isa = PBXBuildFile; fileRef = A201D6A8293163F516343FE81413CC6F /* ARTSolidColor.m */; };
 		AAFFD76E9A471E153F9990F34E7AA8EC /* RCTViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F9A91363F457D6DEAFE0A054E72C917E /* RCTViewManager.m */; };
 		AB4EA3A56195B065C2A8F603E9147E4A /* RCTImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C0B4B51589DB5EB5F230EAA6C031118 /* RCTImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -278,7 +278,7 @@
 		ACA5A1439D01434BC1419F1D1F69051E /* RCTModalHostView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F52A3E89ADC792F310178C58FF88131 /* RCTModalHostView.m */; };
 		AE240CF837BDC708932D4EA51B5845EB /* ARTShapeManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 55FE9A7C33EAB0D46E514A3262F49615 /* ARTShapeManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AEF4B97D534B1606A7018301A81D3241 /* RCTTextDecorationLineType.h in Headers */ = {isa = PBXBuildFile; fileRef = 20F0D1701BD4A1E6CE09811A3154E561 /* RCTTextDecorationLineType.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AF19688BF991B094DAEB7AF8B699B7E5 /* QNIpModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 860DCD5BC759F7AECCE0A7A39D513794 /* QNIpModel.m */; };
+		AF19688BF991B094DAEB7AF8B699B7E5 /* QNIpModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D09EDFFE72298C21B06BEC523750B9B /* QNIpModel.m */; };
 		AF27917C4EDF8D4C43070E7F8B8A2721 /* RCTPerformanceLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 520BB1D0E5A7CFF31F414A166B6313B8 /* RCTPerformanceLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AFB9A37E1DFC2C3854E60072D67A696F /* ARTTextFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 09BD4865E02A9DB570F0F6209D41198E /* ARTTextFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B116FD7DEA77A5E6184F34A9654BD685 /* RCTRedBox.h in Headers */ = {isa = PBXBuildFile; fileRef = 60934688DA16F3D3DFBA1192F21F26D1 /* RCTRedBox.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -290,31 +290,31 @@
 		B5440C0A9D3A1E1654FD99ED3379C6E0 /* RCTScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 28755F6F2AF44E011B609EDFF33E901D /* RCTScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B5569F49BC75E996C5CCAE9FB239C06E /* RCTRefreshControlManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 96A4773AF686C2D7EA50C44DF79FC074 /* RCTRefreshControlManager.m */; };
 		B57D76C2A1C770696565C8E492846E88 /* RCTHTTPRequestHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 086F2CA9CBA77C926D227B3FF2687D69 /* RCTHTTPRequestHandler.m */; };
-		B593E1A528707667F3DF13F57FD205BD /* QNTxtResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 88EF1BFA5D96CEF7B2DCCBA2F6D997CE /* QNTxtResolver.m */; };
+		B593E1A528707667F3DF13F57FD205BD /* QNTxtResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A7471EF36A3025DBAC43961CFE3847 /* QNTxtResolver.m */; };
 		B5E18BF63DF51C7B953D41E5D4B8444F /* RCTPili.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EB5831D3BFA6F317F7C69154197994 /* RCTPili.m */; };
-		B64C317EC08F1BC8A80F64558ABE4556 /* QNGetAddrInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 47B9BFD9DBDB003B8CA92CBA69D150D6 /* QNGetAddrInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B64C317EC08F1BC8A80F64558ABE4556 /* QNGetAddrInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = B88643EAADD1624EEC4F18A3EF192CD6 /* QNGetAddrInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B7813AD48A62E267A85E9511414591A8 /* RCTI18nUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = A76DEBD4722B3EAB9E212EC7EBFE19A9 /* RCTI18nUtil.m */; };
 		B7C4D6A06574539B70EAA61A1C2AAF42 /* RCTGIFImageDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 5463BA9645B35D0E1D5C3D5204642FE1 /* RCTGIFImageDecoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B7D12F38DC421417662E0EE9B20E63B7 /* QNDes.h in Headers */ = {isa = PBXBuildFile; fileRef = 378F98B083F37736E27DE602C2C33A09 /* QNDes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B7D12F38DC421417662E0EE9B20E63B7 /* QNDes.h in Headers */ = {isa = PBXBuildFile; fileRef = 5445E1829949843D62F426D9864B9ACB /* QNDes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B7D2F7D85A36285B8803F471EE12B782 /* CSSNodeList.c in Sources */ = {isa = PBXBuildFile; fileRef = BB0E7EEF4C76FDF4798463A089296A17 /* CSSNodeList.c */; };
-		B814AB108E3DB51D7C04F0C3328957AD /* log.c in Sources */ = {isa = PBXBuildFile; fileRef = E5541C782409EA9C8F5B18520624E67A /* log.c */; };
+		B814AB108E3DB51D7C04F0C3328957AD /* log.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FE299042444E0A0D76F153D4622459E /* log.c */; };
 		B8457CDC972F64C014C7E13FA4CF2E78 /* RCTNetInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 70508264E103575C4EF9BA6EE99C7E15 /* RCTNetInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B85B10B88A760E2DE14A8A3BBA40A285 /* RCTPickerManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F666C71050D0324DA7DD51ED54DD7655 /* RCTPickerManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BA81DD8C9138F5D8CC2B28B785320965 /* RCTSegmentedControlManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 80304A7D8E0532601D410E3AB0186FEF /* RCTSegmentedControlManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BAAFD3AE6CCEAE3D63AC34969F5C68FC /* RCTShadowText.h in Headers */ = {isa = PBXBuildFile; fileRef = 7885B9D32508736CD9A9AAF422927C34 /* RCTShadowText.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BB3FBE145CC2953B7A1E5F505C491D4D /* QNRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = AC176E3575B1D4F23964C75E1A4D0809 /* QNRecord.m */; };
+		BB3FBE145CC2953B7A1E5F505C491D4D /* QNRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 125B0268139159DE63AFED140E4D0ACA /* QNRecord.m */; };
 		BBA2CD58B713A4A357C59F914E9EA719 /* ARTGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC44318F52E86AA2BB7762868E106BB /* ARTGroup.m */; };
 		BBA88D83D0FF0D42AE06C468CA61C520 /* ARTShape.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F6A38404FAF5856E9ACD9C6646B048 /* ARTShape.m */; };
 		BC142BD9259C186EF67AA10F5AE1F4A8 /* RCTRootView.m in Sources */ = {isa = PBXBuildFile; fileRef = 545C9538CC080E9F58DFB399A2CD8F21 /* RCTRootView.m */; };
 		BC4808D8D9CB892758A1EE82A0C63A87 /* RCTDisplayLink.h in Headers */ = {isa = PBXBuildFile; fileRef = B80DDBE713B7427EB10EFB44651FA95D /* RCTDisplayLink.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BC532373C60BBBF3E49AEE5F011DA819 /* RCTImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = ECD3FF07B2B6A20D1078C3DF1D081B3D /* RCTImageView.m */; };
-		BC54578C581E41FD246DE75D82049C7D /* QNAssessment.m in Sources */ = {isa = PBXBuildFile; fileRef = 707FDB19BF06F8482BD016CD80678F13 /* QNAssessment.m */; };
-		BE67171473D6DAD09D361975E0C990E5 /* bytes.h in Headers */ = {isa = PBXBuildFile; fileRef = F40395EBCB940FF278A357C419B2B51F /* bytes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC54578C581E41FD246DE75D82049C7D /* QNAssessment.m in Sources */ = {isa = PBXBuildFile; fileRef = F12D0536ABAE4F57FBBF1ED57B509717 /* QNAssessment.m */; };
+		BE67171473D6DAD09D361975E0C990E5 /* bytes.h in Headers */ = {isa = PBXBuildFile; fileRef = 32718A0EDBCDD19EB2920E2DD1DBC779 /* bytes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BF8CB30EECB04B42DA821D47C2C46153 /* RCTExceptionsManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2965AD674F7D7D9C9ED2257F2284A6DC /* RCTExceptionsManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C05B5A645F62B32186F86E15A82FE15E /* RCTNavItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 54DBA155348AB25A6D8B27D851D24190 /* RCTNavItem.m */; };
 		C08B7E9C9FA532D5CB087B88F578234B /* RCTJSStackFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 03057F19C8A59C76DF1D044A199CA74E /* RCTJSStackFrame.m */; };
 		C332632830CEC2AF27F35966AD2FF777 /* RCTSwitch.h in Headers */ = {isa = PBXBuildFile; fileRef = 31467548E82FF8199AF98244067EE56D /* RCTSwitch.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C3580AFBA56D1C7E895407E492829CBC /* QNIP.h in Headers */ = {isa = PBXBuildFile; fileRef = 18016ECC57A6E8B8A0BC8914083AD503 /* QNIP.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C3580AFBA56D1C7E895407E492829CBC /* QNIP.h in Headers */ = {isa = PBXBuildFile; fileRef = 9ABE0BCAE29D2DA68276557D791B7019 /* QNIP.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C52F442A146769C3A63DDA21CDBB2EC1 /* ARTGroupManager.h in Headers */ = {isa = PBXBuildFile; fileRef = BA676D5FD0D500E136AF62491DE60FD7 /* ARTGroupManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6916AD81B7CB62B5B9F70BD1A652919 /* RCTBridgeModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 672A0A402673F8DE6A3462F6F569F083 /* RCTBridgeModule.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6C071F943DA66CAFCF72D1E2F2AEF3D /* RCTFPSGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 8990908C2DB0A4BA720418D0712167A6 /* RCTFPSGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -329,7 +329,7 @@
 		CD41769D8717BA08ECBCD7D87DB6C7F0 /* RCTTextFieldManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BB90C26F14862A9667E7B9D1861EC168 /* RCTTextFieldManager.m */; };
 		CD7938B80814B2FF70F973FEAFC2FBA6 /* RCTRawTextManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D0A2E7167D7E33F8C54901122706C9 /* RCTRawTextManager.m */; };
 		CE7B433C11044E9411371CE2617000BD /* RCTSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 18456E4BF80371849ADF57E3B0FCC7BD /* RCTSlider.m */; };
-		D09D10AB5788A1DA9FA85CEDFB4013CC /* QNDomain.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEFE7FAA15F57892131755F81A4818A /* QNDomain.m */; };
+		D09D10AB5788A1DA9FA85CEDFB4013CC /* QNDomain.m in Sources */ = {isa = PBXBuildFile; fileRef = EE19D646AC824C5FBBDABE577821E8F8 /* QNDomain.m */; };
 		D0CF5FA50619D07982B81CC39383F788 /* ARTSurfaceView.m in Sources */ = {isa = PBXBuildFile; fileRef = D1EA39C214B92264F1F2968FA947D706 /* ARTSurfaceView.m */; };
 		D11991BC624EB890D27AA020889AE1C5 /* RCTImageLoader.h in Headers */ = {isa = PBXBuildFile; fileRef = 3C4E3D48BC8E7595D5FF4A5471ECC457 /* RCTImageLoader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D1D4638AF8C4747D3A8385C4874E34FE /* RCTWrapperViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9DD6CF133F9C46C3C856CECA9D552667 /* RCTWrapperViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -344,15 +344,15 @@
 		D48F924B57560D5F311432FB9A0483A0 /* RCTActivityIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9E01DC33B78971F41A838988FAEB15 /* RCTActivityIndicatorView.m */; };
 		D57BC7DB976C8D5F82A0CD02F89E9273 /* RCTStatusBarManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D5FF079E95C9342E8B2AAC370E98CE70 /* RCTStatusBarManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D59665747FDAE5259FF861A0F814D840 /* RCTText.h in Headers */ = {isa = PBXBuildFile; fileRef = B573D4EFC3B4838089C0D620A06A36A8 /* RCTText.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D5ECD6E91AC66A990120679D90482B3C /* QNNetworkInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 64AB04B7C17E612CA83B52C77BDC4E38 /* QNNetworkInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D5ECD6E91AC66A990120679D90482B3C /* QNNetworkInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E4C240CB72F53904D4365F4F2A74520 /* QNNetworkInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D662AFDC39B1B42AE0DCAF4B17FC9486 /* ARTGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = CFA65350BE0E7EE6C781C322403A4EC5 /* ARTGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D6F85E5914B659BFFD422527D8F08431 /* RCTWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7506504181BF31A4761FF089016BAC55 /* RCTWebView.m */; };
 		D7C2ACDB60BCBED2D6156A33650C40AC /* RCTKeyCommands.h in Headers */ = {isa = PBXBuildFile; fileRef = 74C659F1353740536C2D00EC0D2B5AEB /* RCTKeyCommands.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D7E7F8E7DC20370E52C082267A3B5D0B /* RCTAlertManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5771CA92966EBF078598FF35AF1D3E3D /* RCTAlertManager.m */; };
 		D87B57917EF9CF93E6629FE2E1BCEB8F /* RCTWebViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 819D3171FAD97AB669B394884ABBE437 /* RCTWebViewManager.m */; };
-		D9733A7217A90E43CFE6FE0A45F1F43C /* QNRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = A9816813F92437AD9B774186F84D3CB1 /* QNRecord.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D975D7F93AF184BB1E68E5F43A3EB85F /* dhgroups.h in Headers */ = {isa = PBXBuildFile; fileRef = FF0E3AEEAE2AA340030B5438B0601329 /* dhgroups.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DA440F9CB171FE17C754E745DC98AC96 /* QNDnsManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 6907603EF11A66052DE8A51B2D004153 /* QNDnsManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D9733A7217A90E43CFE6FE0A45F1F43C /* QNRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CB8F4898B5C1CAAC8CDEC5F8A217BBF /* QNRecord.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D975D7F93AF184BB1E68E5F43A3EB85F /* dhgroups.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EAFC5AD1DC1472B69C6C5CC654C367A /* dhgroups.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA440F9CB171FE17C754E745DC98AC96 /* QNDnsManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 6606AC44EA59E6902143A0E5DD77C3F2 /* QNDnsManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DC48B91A55C26B4F8AAA060FF66BB88B /* RCTRootView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9694828EDB8262869DA4AE96FE6B1FCA /* RCTRootView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DCA33E7CB951B0097711156A18345204 /* RCTEventEmitter.h in Headers */ = {isa = PBXBuildFile; fileRef = BA2728165EED9EA93F35EC476E5D8253 /* RCTEventEmitter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE7E6A1ECAE7CF00D210BD222A494E3A /* RCTModalHostViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DFB846D4B45D994D9386F39B3DAF93A0 /* RCTModalHostViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -383,7 +383,7 @@
 		F270E0E894BD3BE62928A0DAF9BC883D /* RCTJSCProfiler.m in Sources */ = {isa = PBXBuildFile; fileRef = EA721E55711869C94621B44E3EB16EF7 /* RCTJSCProfiler.m */; };
 		F2A0F96BA9883B94E11248F64F85AD6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 241BC2899E23E73A2E7D8C37E9135AA2 /* Foundation.framework */; };
 		F314884C124B51FB12E6E628323F1127 /* RCTResizeMode.h in Headers */ = {isa = PBXBuildFile; fileRef = 86B33D7C5C42864F2A0F178CA4153066 /* RCTResizeMode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F3237AE4E59B9A821591349BC1AC417B /* http.h in Headers */ = {isa = PBXBuildFile; fileRef = A37E03A769988064927B5E74ABD2BEAC /* http.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F3237AE4E59B9A821591349BC1AC417B /* http.h in Headers */ = {isa = PBXBuildFile; fileRef = 374B747B730F9980977F1C188FF2279A /* http.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F40A08C30B89FC6B7CEC036466D930B5 /* RCTConvert.h in Headers */ = {isa = PBXBuildFile; fileRef = E091F4AAB1F9146329DF4FFA5D2262D5 /* RCTConvert.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F416463697D347FB049BFDAD0D614B5B /* ARTBrush.h in Headers */ = {isa = PBXBuildFile; fileRef = 1388CE78AC342F9DEAF1E463F62064F4 /* ARTBrush.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F43992876678AF958DD87494BB5BF58F /* RCTPickerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 81029EC227564CF9D2201305D2830223 /* RCTPickerManager.m */; };
@@ -397,8 +397,8 @@
 		F7FCFD85D3F498F58FCE326FC0971F8E /* RCTTextManager.h in Headers */ = {isa = PBXBuildFile; fileRef = BF46E767313F4459AE35F20C3693A8C5 /* RCTTextManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F8926194F3B47E477D22B6A8A4A52363 /* CSSNodeList.h in Headers */ = {isa = PBXBuildFile; fileRef = C0065DF8B375562B64F885B2E1F6DFB6 /* CSSNodeList.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F8E45A6A7ED064FE115219455732F424 /* RCTImageEditingManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F23E485134CBF974997B8F0D903FCA34 /* RCTImageEditingManager.m */; };
-		F91423909334D78E1F5D8041005529BA /* QNIpModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FA9CE2B2DD117CCF9F59817EC4AC76F1 /* QNIpModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F9A157697BEA0FB38078B18B9DFF5C61 /* QNHosts.h in Headers */ = {isa = PBXBuildFile; fileRef = BBB402626E24B606B28B4DBBFC70869F /* QNHosts.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F91423909334D78E1F5D8041005529BA /* QNIpModel.h in Headers */ = {isa = PBXBuildFile; fileRef = D15052AF938120ABA903A6B7B509FD5D /* QNIpModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F9A157697BEA0FB38078B18B9DFF5C61 /* QNHosts.h in Headers */ = {isa = PBXBuildFile; fileRef = 85ECF15CA36564EE9DFA5FC5662113E8 /* QNHosts.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9FC813899D360C6051CFE89C00B679B /* RCTKeyboardObserver.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E0BF8D583B9B56B6C8D21351195B8E1 /* RCTKeyboardObserver.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FA5BD1941718F33B2B16D4A18B8912ED /* RCTNavigator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4809DD5F5BF6EE74779736BF82CC6B49 /* RCTNavigator.m */; };
 		FB7C1884066D03D29894CBCD9AAD0B78 /* RCTImageViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 89EF0E90861D47AD10EF27D0D619EEB5 /* RCTImageViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -461,66 +461,66 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		005E9F41D436CEDD826B7A45E6D59E1D /* QNGetAddrInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNGetAddrInfo.m; path = HappyDNS/Util/QNGetAddrInfo.m; sourceTree = "<group>"; };
+		01B29878A3103CB16062D850ED9E781F /* PLAudioEffectConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioEffectConfiguration.h; path = Pod/Library/include/Common/PLAudioEffectConfiguration.h; sourceTree = "<group>"; };
 		01DA258149225695AC1E4CE8C26428DF /* RCTPicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPicker.h; sourceTree = "<group>"; };
+		0285BCD8FCCD012ED50EA5660AB8D603 /* QNLruCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNLruCache.h; path = HappyDNS/Common/QNLruCache.h; sourceTree = "<group>"; };
 		03057F19C8A59C76DF1D044A199CA74E /* RCTJSStackFrame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTJSStackFrame.m; sourceTree = "<group>"; };
 		03BC14134D2CC926644F39B5DDB7F94B /* RCTTabBarItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTabBarItem.m; sourceTree = "<group>"; };
 		05A8D847ACBC792DAFC737CF274BA3D6 /* RCTAppState.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAppState.m; sourceTree = "<group>"; };
 		06BF13EF5BE1837DF800CF566EE403D7 /* Pods-airappsUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-airappsUITests-frameworks.sh"; sourceTree = "<group>"; };
-		076CA5D6FD25CFB928A519D23CD4EAFA /* QNLruCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNLruCache.h; path = HappyDNS/Common/QNLruCache.h; sourceTree = "<group>"; };
 		080829B49EBEC5B07311E2CBD05D6404 /* RCTTiming.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTiming.m; sourceTree = "<group>"; };
 		080A3E95BBF3ED3DB7073A534363F5AB /* RCTI18nManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTI18nManager.h; sourceTree = "<group>"; };
 		081EE736694990C8F9212D9E92D26F5F /* RCTConvert+CoreLocation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+CoreLocation.m"; sourceTree = "<group>"; };
 		086F2CA9CBA77C926D227B3FF2687D69 /* RCTHTTPRequestHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTHTTPRequestHandler.m; sourceTree = "<group>"; };
-		09339DA987B2460165D94272AB7DDF88 /* libWeChatSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeChatSDK.a; path = SDKExport/libWeChatSDK.a; sourceTree = "<group>"; };
+		088FF061E0E5FE47E2946A040709133C /* QNDnspodFree.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnspodFree.m; path = HappyDNS/Http/QNDnspodFree.m; sourceTree = "<group>"; };
 		09BD4865E02A9DB570F0F6209D41198E /* ARTTextFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTTextFrame.h; sourceTree = "<group>"; };
-		0A53E2D0D477A6A17F7EC139164DF714 /* PLAudioEffectConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioEffectConfiguration.h; path = Pod/Library/include/Common/PLAudioEffectConfiguration.h; sourceTree = "<group>"; };
+		0A4498CF0512E054D9F92EEFC33CF6AC /* rtmp.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = rtmp.c; path = "Pod/Classes/pili-librtmp/rtmp.c"; sourceTree = "<group>"; };
 		0A6CA01B6941668000FBD04B74F11B70 /* RCTTabBarItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTabBarItem.h; sourceTree = "<group>"; };
 		0A6F9C22B10DB24526AE850E01B33CC2 /* CSSLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CSSLayout.h; sourceTree = "<group>"; };
 		0B14CE1F6F85C71AE40165A5F493BBB1 /* RCTNavItemManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNavItemManager.h; sourceTree = "<group>"; };
+		0BF1608D9660D11510FFAFDF196D58BF /* QNNetworkInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNNetworkInfo.m; path = HappyDNS/Common/QNNetworkInfo.m; sourceTree = "<group>"; };
 		0DA68A645464155D40CE57C4C020902C /* RCTJSCProfiler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTJSCProfiler.h; sourceTree = "<group>"; };
 		0DDDC84E60B62CA43EC8B649356E6265 /* Pods-airappsUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-airappsUITests-resources.sh"; sourceTree = "<group>"; };
+		106417CAE1CAA1B90B72E8183826D064 /* PLBuffer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLBuffer.h; path = Pod/Library/include/Common/PLBuffer.h; sourceTree = "<group>"; };
+		106E31AE186D49BA32CD5A21FECE190A /* PLAudioPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioPlayer.h; path = Pod/Library/include/Common/PLAudioPlayer.h; sourceTree = "<group>"; };
 		1120E686621122F6DC824AC189792235 /* RCTImageSource.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageSource.h; sourceTree = "<group>"; };
 		11DF6FF421D7924FB1857C9FAB091BFD /* RCTDataRequestHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDataRequestHandler.m; sourceTree = "<group>"; };
 		11EFBD936E185AFA3B60E487E6C67C7A /* RCTBatchedBridge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBatchedBridge.m; sourceTree = "<group>"; };
+		125B0268139159DE63AFED140E4D0ACA /* QNRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNRecord.m; path = HappyDNS/Common/QNRecord.m; sourceTree = "<group>"; };
 		1388CE78AC342F9DEAF1E463F62064F4 /* ARTBrush.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTBrush.h; sourceTree = "<group>"; };
+		143AEAD8588F62090AFEEF3B15879151 /* QNDnspodFree.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnspodFree.h; path = HappyDNS/Http/QNDnspodFree.h; sourceTree = "<group>"; };
 		154F0595B125A9DE512C4068D2D5A9E2 /* RCTImageStoreManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageStoreManager.m; sourceTree = "<group>"; };
 		15C738784374F6FCB65692881DF91EBD /* RCTFrameUpdate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFrameUpdate.h; sourceTree = "<group>"; };
-		15D69891914661D1AE4A7E41AF222CC3 /* PLPlayerEnv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerEnv.h; path = Pod/Library/include/PLPlayerKit/PLPlayerEnv.h; sourceTree = "<group>"; };
 		15D7F7E1387C48907923EF2BE4CFF956 /* ARTText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTText.h; sourceTree = "<group>"; };
 		168155DCE2CFC8BE07D8BEBA74CCB4F9 /* CSSLayout.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = CSSLayout.c; sourceTree = "<group>"; };
-		176D0C04FB22CD628665409B35135F80 /* QNHijackingDetectWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHijackingDetectWrapper.h; path = HappyDNS/Local/QNHijackingDetectWrapper.h; sourceTree = "<group>"; };
-		18016ECC57A6E8B8A0BC8914083AD503 /* QNIP.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNIP.h; path = HappyDNS/Util/QNIP.h; sourceTree = "<group>"; };
+		1769D0B2E536EBC6A74F90F238F691E7 /* QNDnsManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnsManager.m; path = HappyDNS/Common/QNDnsManager.m; sourceTree = "<group>"; };
+		1844E73FA2D40B20134B0A1E2264F6C4 /* QNHijackingDetectWrapper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHijackingDetectWrapper.m; path = HappyDNS/Local/QNHijackingDetectWrapper.m; sourceTree = "<group>"; };
 		18456E4BF80371849ADF57E3B0FCC7BD /* RCTSlider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSlider.m; sourceTree = "<group>"; };
 		18680D0324820DB8025E732272737DB7 /* ARTShape.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTShape.h; sourceTree = "<group>"; };
-		19C2596927DED4BE3A9809F8D34E7545 /* amf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = amf.h; path = "Pod/Classes/pili-librtmp/amf.h"; sourceTree = "<group>"; };
+		18A7471EF36A3025DBAC43961CFE3847 /* QNTxtResolver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNTxtResolver.m; path = HappyDNS/Local/QNTxtResolver.m; sourceTree = "<group>"; };
+		1A972E9CBA2D827E48F8E2E2FF405E12 /* QNLruCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNLruCache.m; path = HappyDNS/Common/QNLruCache.m; sourceTree = "<group>"; };
 		1AE976AED3BD0640D820DC25D066B946 /* RCTPerfMonitor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPerfMonitor.m; sourceTree = "<group>"; };
 		1B48B15A2CE983033BFF12F877EFA3BE /* RCTJSCExecutor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTJSCExecutor.h; sourceTree = "<group>"; };
 		1B7E77D75A6354A1E0084B9F9E8C1518 /* RCTActivityIndicatorViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTActivityIndicatorViewManager.m; sourceTree = "<group>"; };
 		1BE8BF54EA39055A6485655A08E91713 /* RCTImageBlurUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageBlurUtils.h; sourceTree = "<group>"; };
-		1CA7247C29A9CCF26809A13C86B78A56 /* libPLMediaStreamingKit.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libPLMediaStreamingKit.a; path = Pod/Library/libPLMediaStreamingKit.a; sourceTree = "<group>"; };
 		1CC44318F52E86AA2BB7762868E106BB /* ARTGroup.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTGroup.m; sourceTree = "<group>"; };
-		1D0B150FD14C55375889D099CCD68755 /* HappyDNS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HappyDNS-prefix.pch"; sourceTree = "<group>"; };
+		1D09EDFFE72298C21B06BEC523750B9B /* QNIpModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNIpModel.m; path = HappyDNS/Assessment/QNIpModel.m; sourceTree = "<group>"; };
 		1D2A701EC940645A67F8050D9FA98ED7 /* RCTHTTPRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTHTTPRequestHandler.h; sourceTree = "<group>"; };
-		1EE8F204ADCF65B28A2F384551D6AF01 /* PLCameraStreamingSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCameraStreamingSession.h; path = Pod/Library/include/PLCameraStreamingKit/PLCameraStreamingSession.h; sourceTree = "<group>"; };
+		1EA763700153CED3CE2AADA80A3D9B41 /* PLPlayerEnv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerEnv.h; path = Pod/Library/include/PLPlayerKit/PLPlayerEnv.h; sourceTree = "<group>"; };
 		1F52A3E89ADC792F310178C58FF88131 /* RCTModalHostView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTModalHostView.m; sourceTree = "<group>"; };
 		1FC30A4A6CCEF9005B5B5EB000BE76E9 /* RCTErrorCustomizer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTErrorCustomizer.h; sourceTree = "<group>"; };
-		1FCD60C2A409982490DD3AD5002E92D7 /* PLPlayerError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerError.h; path = Pod/Library/include/PLPlayerKit/PLPlayerError.h; sourceTree = "<group>"; };
+		1FE299042444E0A0D76F153D4622459E /* log.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = log.c; path = "Pod/Classes/pili-librtmp/log.c"; sourceTree = "<group>"; };
 		1FE8874D2A5188FC3A29F25EF0BBB463 /* RCTNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNetworking.m; sourceTree = "<group>"; };
 		20094E0E0AAE02F8F48A5F34A8A67C32 /* RCTStreamingManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTStreamingManager.m; sourceTree = "<group>"; };
-		205013A80DC15FA5A44AA10F31FE120E /* QNLruCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNLruCache.m; path = HappyDNS/Common/QNLruCache.m; sourceTree = "<group>"; };
 		20F0D1701BD4A1E6CE09811A3154E561 /* RCTTextDecorationLineType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextDecorationLineType.h; sourceTree = "<group>"; };
 		218D6D18DB90CE39A1FC134115626967 /* RCTWebSocketExecutor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebSocketExecutor.h; sourceTree = "<group>"; };
 		21DAFAE729F04AF05DA385196C2B3CA4 /* RCTRootViewDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRootViewDelegate.h; sourceTree = "<group>"; };
 		226F2652CACD88E54787E14959A72298 /* RCTComponentData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTComponentData.h; sourceTree = "<group>"; };
-		23A21CB183962ADA41FEB4DEDD6CB5B6 /* PLPlayerOption.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerOption.h; path = Pod/Library/include/PLPlayerKit/PLPlayerOption.h; sourceTree = "<group>"; };
 		241BC2899E23E73A2E7D8C37E9135AA2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		2434CDD928451CD25EE35F7359CD46D7 /* RCTRootViewInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRootViewInternal.h; sourceTree = "<group>"; };
 		244C4E91AD91448304FDED633802F497 /* RCTURLRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTURLRequestHandler.h; sourceTree = "<group>"; };
-		256ACD48DE4F71B546672AE677B4D672 /* QNTxtResolver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNTxtResolver.h; path = HappyDNS/Local/QNTxtResolver.h; sourceTree = "<group>"; };
 		25B975066823E8A2912498CBE3DAE5A5 /* RCTAccessibilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAccessibilityManager.m; sourceTree = "<group>"; };
 		26F22770DD14F7F457FC994D2BDC8CA4 /* RCTDatePicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDatePicker.h; sourceTree = "<group>"; };
-		278A854296AE55C8A6FC64F96A14F4BF /* parseurl.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = parseurl.c; path = "Pod/Classes/pili-librtmp/parseurl.c"; sourceTree = "<group>"; };
 		281D0B48FA04AFC2E91F065B7EA646E8 /* RCTBridge+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RCTBridge+Private.h"; sourceTree = "<group>"; };
 		28755F6F2AF44E011B609EDFF33E901D /* RCTScrollView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollView.h; sourceTree = "<group>"; };
 		28B96AF42D6B76DCC5DB1746A21BC1B6 /* RCTEventDispatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTEventDispatcher.m; sourceTree = "<group>"; };
@@ -529,28 +529,28 @@
 		29EA9212D10CDDD30FAD9C8313C536EA /* RCTTouchHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTouchHandler.h; sourceTree = "<group>"; };
 		2A8B7DA1FD9616C2D9F0492F5E964E31 /* RCTStreamingManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTStreamingManager.h; sourceTree = "<group>"; };
 		2AA676F26332C89B9FDAEB688ACA555F /* RCTView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTView.h; sourceTree = "<group>"; };
-		2ADD8F117FE9E250026FDA3BDBF2A8FF /* PLStreamingSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingSession.h; path = Pod/Library/include/PLStreamingKit/PLStreamingSession.h; sourceTree = "<group>"; };
 		2B0AD044AC048B48A6B51EC9C90FB231 /* RCTTextFieldManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextFieldManager.h; sourceTree = "<group>"; };
 		2B7EEC8A2D89CE7572985F95FB2A7520 /* RCTSRWebSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSRWebSocket.h; sourceTree = "<group>"; };
-		2BEFE7FAA15F57892131755F81A4818A /* QNDomain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDomain.m; path = HappyDNS/Common/QNDomain.m; sourceTree = "<group>"; };
+		2BD540BC9AB10CBA514A84C3476F04AF /* pili-librtmp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "pili-librtmp-dummy.m"; sourceTree = "<group>"; };
 		2C50CB53BE1F853C5FEAB849565FFEA7 /* CSSLayout-internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CSSLayout-internal.h"; sourceTree = "<group>"; };
-		2C6EA472DD4DF94692AB7C1074C51800 /* PLStreamStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamStatus.h; path = Pod/Library/include/Common/PLStreamStatus.h; sourceTree = "<group>"; };
 		2D4BF5C84A3237B497E210A4FC5B4076 /* RCTDevMenu.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDevMenu.m; sourceTree = "<group>"; };
-		2D989D32751FB418333FEAD4D234D1E3 /* rtmp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = rtmp.h; path = "Pod/Classes/pili-librtmp/rtmp.h"; sourceTree = "<group>"; };
 		2F24193AB4CBDAA8568C6F8DDFA70AAC /* RCTWebSocketManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWebSocketManager.m; sourceTree = "<group>"; };
-		313E547793E59DA1020DA4878E285DB4 /* hashswf.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = hashswf.c; path = "Pod/Classes/pili-librtmp/hashswf.c"; sourceTree = "<group>"; };
+		2F57B482426CE884B14B6C2C938205E6 /* PLStreamingEnv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingEnv.h; path = Pod/Library/include/PLStreamingKit/PLStreamingEnv.h; sourceTree = "<group>"; };
+		30D351DB067D25C15CEAF5990F436F94 /* HappyDNS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HappyDNS.h; path = HappyDNS/HappyDNS.h; sourceTree = "<group>"; };
 		31467548E82FF8199AF98244067EE56D /* RCTSwitch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSwitch.h; sourceTree = "<group>"; };
+		32718A0EDBCDD19EB2920E2DD1DBC779 /* bytes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = bytes.h; path = "Pod/Classes/pili-librtmp/bytes.h"; sourceTree = "<group>"; };
 		33794CA46DB69A55D06C437A38D959BE /* ARTTextManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTTextManager.h; sourceTree = "<group>"; };
+		33DFD58F66312D9C3758178D412FABE0 /* amf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = amf.h; path = "Pod/Classes/pili-librtmp/amf.h"; sourceTree = "<group>"; };
 		3446E3F58C33035178D7C7F730F068F1 /* RCTModuleData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTModuleData.m; sourceTree = "<group>"; };
 		3473C20B1D1CCEEA965A2E12AD424467 /* RCTBridgeDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBridgeDelegate.h; sourceTree = "<group>"; };
+		34948EAC1D3A90280D11A8A74AEDF85B /* libPLMediaStreamingKit.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libPLMediaStreamingKit.a; path = Pod/Library/libPLMediaStreamingKit.a; sourceTree = "<group>"; };
 		34E56125F61F99F26FDFF11BBB4845DF /* RCTPlayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPlayer.m; sourceTree = "<group>"; };
 		34FB96AC57238677056B3FC6C5B363D0 /* RCTUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTUtils.h; sourceTree = "<group>"; };
 		3506458C85926A069733418B1B79E185 /* RCTDataRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDataRequestHandler.h; sourceTree = "<group>"; };
 		3551B9F2739ED3CB2C0DF76219889CCA /* RCTProgressViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTProgressViewManager.m; sourceTree = "<group>"; };
-		36180851DCAF20BCD0AA6EBEAD89380B /* QNResolver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNResolver.m; path = HappyDNS/Local/QNResolver.m; sourceTree = "<group>"; };
 		3641F4DA5D3E965C37A3E4696407DD59 /* RCTPlayerManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPlayerManager.h; sourceTree = "<group>"; };
 		36E388B75E7C4769AC1819B11F2D54C0 /* RCTDatePickerManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDatePickerManager.h; sourceTree = "<group>"; };
-		378F98B083F37736E27DE602C2C33A09 /* QNDes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDes.h; path = HappyDNS/Util/QNDes.h; sourceTree = "<group>"; };
+		374B747B730F9980977F1C188FF2279A /* http.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = http.h; path = "Pod/Classes/pili-librtmp/http.h"; sourceTree = "<group>"; };
 		38103A6D8B5F49965D9776321F9282EB /* RCTRefreshControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRefreshControl.h; sourceTree = "<group>"; };
 		382704D1267345341FC2CEE557A9494C /* RCTKeyCommands.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTKeyCommands.m; sourceTree = "<group>"; };
 		382DE00300A8889EEEF21E6A30FA703F /* RCTLocationObserver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTLocationObserver.m; sourceTree = "<group>"; };
@@ -561,64 +561,63 @@
 		3BCAB5ADB5D3DD58C48C9561E7130984 /* RCTAsyncLocalStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAsyncLocalStorage.m; sourceTree = "<group>"; };
 		3C4E3D48BC8E7595D5FF4A5471ECC457 /* RCTImageLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageLoader.h; sourceTree = "<group>"; };
 		3D19FBB031CFD42445D7FA45AE926BF7 /* ARTNodeManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTNodeManager.m; sourceTree = "<group>"; };
-		3E32769740E3E263B158E57974A831F3 /* QNRefresher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNRefresher.h; path = HappyDNS/QNRefresher.h; sourceTree = "<group>"; };
 		411958584467779A081060F6FF0D4B2B /* RCTURLRequestDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTURLRequestDelegate.h; sourceTree = "<group>"; };
-		4163AEE0F020854AC310A61A1A00B805 /* QNIP.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNIP.m; path = HappyDNS/Util/QNIP.m; sourceTree = "<group>"; };
+		419A68C39415D084E45E56C0ABADBA3A /* QNHex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHex.h; path = HappyDNS/Util/QNHex.h; sourceTree = "<group>"; };
 		41FFBD25F4A0F24075EB65CCF39E1552 /* RCTScrollableProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollableProtocol.h; sourceTree = "<group>"; };
 		4249FD22D9E9413980E8A8D3B68E66F7 /* RCTSwitch.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSwitch.m; sourceTree = "<group>"; };
 		42AD06E86B898A48382D74D142888D5E /* RCTTabBarItemManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTabBarItemManager.m; sourceTree = "<group>"; };
-		42F11AEFB7F463901A40A7C5D44F03DE /* PLTypeDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLTypeDefines.h; path = Pod/Library/include/Common/PLTypeDefines.h; sourceTree = "<group>"; };
 		437D5D53FF26180F9E1BEB6C14E118DA /* RCTImageSource.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageSource.m; sourceTree = "<group>"; };
+		43974832F29B03F6A683FC35DB0D5E01 /* hashswf.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = hashswf.c; path = "Pod/Classes/pili-librtmp/hashswf.c"; sourceTree = "<group>"; };
 		441BD8B9603D5596638D5C424D8E7E94 /* libHappyDNS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libHappyDNS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4579FBA2943E1EA27CBB58066E95CC05 /* RCTSwitchManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSwitchManager.h; sourceTree = "<group>"; };
 		459C1454FB9A93AF11C31D1D1513E410 /* RCTPili.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RCTPili.xcconfig; sourceTree = "<group>"; };
 		464ADB830D1AC2A0CFEFA86F59EBE208 /* RCTModuleMethod.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTModuleMethod.m; sourceTree = "<group>"; };
-		47B9BFD9DBDB003B8CA92CBA69D150D6 /* QNGetAddrInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNGetAddrInfo.h; path = HappyDNS/Util/QNGetAddrInfo.h; sourceTree = "<group>"; };
 		4809DD5F5BF6EE74779736BF82CC6B49 /* RCTNavigator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNavigator.m; sourceTree = "<group>"; };
+		48253F91D0652EE1C7833C1D0A8E0849 /* QNDomain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDomain.h; path = HappyDNS/Common/QNDomain.h; sourceTree = "<group>"; };
+		48C84DD196960916523741299B5F7391 /* PLPlayerKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerKit.h; path = Pod/Library/include/PLPlayerKit/PLPlayerKit.h; sourceTree = "<group>"; };
 		48F10B98DBF683B2EB59FEAA940550E0 /* ARTPattern.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTPattern.h; sourceTree = "<group>"; };
-		49ADE051F02A079B745B1016EF19B877 /* error.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = error.c; path = "Pod/Classes/pili-librtmp/error.c"; sourceTree = "<group>"; };
 		49EA51C85E33395EE9C93B023F5C4371 /* RCTRootShadowView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRootShadowView.m; sourceTree = "<group>"; };
+		4B6B3F72E8B31D6D49DD96026CF3C77F /* PLTypeDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLTypeDefines.h; path = Pod/Library/include/Common/PLTypeDefines.h; sourceTree = "<group>"; };
 		4BD7216054182567F4C5ACB0F7EAF7EE /* RCTImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageCache.m; sourceTree = "<group>"; };
 		4C6DABF39E0F99C6C26C0CC50C321F87 /* ARTLinearGradient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTLinearGradient.m; sourceTree = "<group>"; };
+		4C9166158BA724EC962B6F7EB64FF3A1 /* PLCameraStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCameraStreamingKit.h; path = Pod/Library/include/PLCameraStreamingKit/PLCameraStreamingKit.h; sourceTree = "<group>"; };
 		4D1C1FA1404B8FFB1427F79A7A5ADB67 /* RCTLocationObserver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTLocationObserver.h; sourceTree = "<group>"; };
 		4D8B0FE36572C31232F10FB08554B24E /* RCTPili-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RCTPili-dummy.m"; sourceTree = "<group>"; };
 		4DF1BBA19CE063BF7A29B08C49A31AB7 /* RCTFileRequestHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTFileRequestHandler.m; sourceTree = "<group>"; };
 		4E0BF8D583B9B56B6C8D21351195B8E1 /* RCTKeyboardObserver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTKeyboardObserver.h; sourceTree = "<group>"; };
-		4E2AAB9D65D9D12A30252FEB5B02165B /* PLMediaStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLMediaStreamingKit.h; path = Pod/Library/include/PLMediaStreamingKit.h; sourceTree = "<group>"; };
+		4F4E30C6BE5609FCEF8C4F540757E7BF /* PLPlayerError.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerError.h; path = Pod/Library/include/PLPlayerKit/PLPlayerError.h; sourceTree = "<group>"; };
 		500211CFF650C4B8E0B22852ECDC84AB /* RCTScrollView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTScrollView.m; sourceTree = "<group>"; };
 		50B73A8A25BCC2BCA5B6A9383D794A4C /* RCTFileRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFileRequestHandler.h; sourceTree = "<group>"; };
 		51F2F6B702BC4CF7893DDFCC4D71FDEC /* RCTDevLoadingView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDevLoadingView.h; sourceTree = "<group>"; };
 		520BB1D0E5A7CFF31F414A166B6313B8 /* RCTPerformanceLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPerformanceLogger.h; sourceTree = "<group>"; };
 		53462C1140472E2FAD1C27FF4D65D341 /* RCTLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTLog.m; sourceTree = "<group>"; };
 		537567301BD44957756B003B153BADE0 /* ARTBrush.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTBrush.m; sourceTree = "<group>"; };
-		53A6DEA0B0875867B94DE956F09945BF /* WXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApi.h; path = SDKExport/WXApi.h; sourceTree = "<group>"; };
 		5409A84F26735D9833C89AE9E1B10BFF /* RCTLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTLog.h; sourceTree = "<group>"; };
+		5445E1829949843D62F426D9864B9ACB /* QNDes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDes.h; path = HappyDNS/Util/QNDes.h; sourceTree = "<group>"; };
 		545C9538CC080E9F58DFB399A2CD8F21 /* RCTRootView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRootView.m; sourceTree = "<group>"; };
 		5463BA9645B35D0E1D5C3D5204642FE1 /* RCTGIFImageDecoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTGIFImageDecoder.h; sourceTree = "<group>"; };
 		54B158E99D1A25A928725185D92AF227 /* RCTJSCWrapper.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; path = RCTJSCWrapper.mm; sourceTree = "<group>"; };
-		54CFECC45EC831BFAF100EF277F213EE /* rtmp.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = rtmp.c; path = "Pod/Classes/pili-librtmp/rtmp.c"; sourceTree = "<group>"; };
 		54DBA155348AB25A6D8B27D851D24190 /* RCTNavItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNavItem.m; sourceTree = "<group>"; };
-		55178A9F0BB1B6E1275B99E41AF8B64C /* HappyDNS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HappyDNS.h; path = HappyDNS/HappyDNS.h; sourceTree = "<group>"; };
 		559CAE375DA9A7F013C86E5DB64A2C7C /* RCTProfileTrampoline-arm.S */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.asm; path = "RCTProfileTrampoline-arm.S"; sourceTree = "<group>"; };
 		55F13677657BCA5C770B790C6255859E /* RCTSourceCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSourceCode.h; sourceTree = "<group>"; };
 		55FE9A7C33EAB0D46E514A3262F49615 /* ARTShapeManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTShapeManager.h; sourceTree = "<group>"; };
 		5718FCD39BF02E6B4BF956C478D6136B /* ARTRenderableManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTRenderableManager.h; sourceTree = "<group>"; };
 		5771CA92966EBF078598FF35AF1D3E3D /* RCTAlertManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAlertManager.m; sourceTree = "<group>"; };
-		57B31387A836F4529D685E24489F38AC /* QNDnspodFree.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnspodFree.m; path = HappyDNS/Http/QNDnspodFree.m; sourceTree = "<group>"; };
 		57D06200A4E5517D803AD5FD3E6842DD /* ARTLinearGradient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTLinearGradient.h; sourceTree = "<group>"; };
 		5864E2F83710C546379573E5BA538302 /* RCTTouchEvent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTouchEvent.m; sourceTree = "<group>"; };
 		59393AE4EB219BFF855A8C87C68A50AB /* RCTJavaScriptLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTJavaScriptLoader.h; sourceTree = "<group>"; };
 		59591831E4BDA1DB558B1BCB5459AB69 /* RCTClipboard.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTClipboard.m; sourceTree = "<group>"; };
+		5995837D013819F2253786A4AB5D3582 /* QNTxtResolver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNTxtResolver.h; path = HappyDNS/Local/QNTxtResolver.h; sourceTree = "<group>"; };
+		59E6867CC2B326D951AF0FFADD87E434 /* PLAudioStreamingConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioStreamingConfiguration.h; path = Pod/Library/include/Common/PLAudioStreamingConfiguration.h; sourceTree = "<group>"; };
 		5ABBA879C45DEEDE66A3BE83BA2D02CD /* RCTSliderManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSliderManager.m; sourceTree = "<group>"; };
-		5B351E24B53EAA73DE5975D8D18E9456 /* PLAudioStreamingConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioStreamingConfiguration.h; path = Pod/Library/include/Common/PLAudioStreamingConfiguration.h; sourceTree = "<group>"; };
 		5BA1FD81D479C20DACD1B07A9C56077F /* ARTPattern.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTPattern.m; sourceTree = "<group>"; };
 		5C50826E5772B278A2E1E8AE01D9ADEC /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		5C7DAF456B044698FD4CD8FE1AFA6587 /* PLStreamingEnv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingEnv.h; path = Pod/Library/include/PLStreamingKit/PLStreamingEnv.h; sourceTree = "<group>"; };
 		5C8FC5B2AE3983968AC140E56A1A9D28 /* RCTMapManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMapManager.m; sourceTree = "<group>"; };
 		5CEAF54E825BF283FD74413B5812A3BE /* RCTModuleData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModuleData.h; sourceTree = "<group>"; };
 		5D1B48217C0CF3BFA386F7F30FA644C9 /* libPods-airappsUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-airappsUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5D45BF880584106C82A072405B9F6514 /* PLVideoStreamingConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLVideoStreamingConfiguration.h; path = Pod/Library/include/Common/PLVideoStreamingConfiguration.h; sourceTree = "<group>"; };
+		5D417EC4BEDC608953356412596FF171 /* libPLPlayerKit.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libPLPlayerKit.a; path = Pod/Library/lib/libPLPlayerKit.a; sourceTree = "<group>"; };
 		5D7C6B7E381E8262E800C0CA8D936F49 /* RCTBridge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBridge.m; sourceTree = "<group>"; };
+		5EAFC5AD1DC1472B69C6C5CC654C367A /* dhgroups.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = dhgroups.h; path = "Pod/Classes/pili-librtmp/dhgroups.h"; sourceTree = "<group>"; };
 		5F005AC64A85D679805A8BB8552BEDA1 /* RCTTextManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextManager.m; sourceTree = "<group>"; };
 		5FD1B10B5E8C031A8DB2B0082665A5D2 /* RCTConvert+ART.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+ART.m"; sourceTree = "<group>"; };
 		601FCC4D039AE4AE30983FF290D59B11 /* RCTNullability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNullability.h; sourceTree = "<group>"; };
@@ -629,23 +628,21 @@
 		61C495D99E1DF17FB54D450902EC9FC6 /* RCTDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDefines.h; sourceTree = "<group>"; };
 		633DB29CBA87EF4C057D503DAC1D6109 /* RCTTextField.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextField.m; sourceTree = "<group>"; };
 		647B71A493BB6701748CB065EF0BC635 /* RCTBundleURLProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBundleURLProvider.m; sourceTree = "<group>"; };
-		64AB04B7C17E612CA83B52C77BDC4E38 /* QNNetworkInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNNetworkInfo.h; path = HappyDNS/Common/QNNetworkInfo.h; sourceTree = "<group>"; };
-		65743D0922DEBDA79E5AB938E8D36736 /* QNResolvUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNResolvUtil.m; path = HappyDNS/Local/QNResolvUtil.m; sourceTree = "<group>"; };
 		65981B72285242AC4068F86920DEDA59 /* ARTRadialGradient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTRadialGradient.m; sourceTree = "<group>"; };
 		65AB09A09A2A61B00B97A3E4B736C9E0 /* RCTTouchHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTouchHandler.m; sourceTree = "<group>"; };
+		6606AC44EA59E6902143A0E5DD77C3F2 /* QNDnsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnsManager.h; path = HappyDNS/Common/QNDnsManager.h; sourceTree = "<group>"; };
 		66C9C33AE12154E8851594D5BBC38D98 /* RCTWebView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebView.h; sourceTree = "<group>"; };
 		672A0A402673F8DE6A3462F6F569F083 /* RCTBridgeModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBridgeModule.h; sourceTree = "<group>"; };
 		68046668CE95E4A5C98529D8914CF12E /* RCTPili.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPili.h; sourceTree = "<group>"; };
 		68D0A2E7167D7E33F8C54901122706C9 /* RCTRawTextManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRawTextManager.m; sourceTree = "<group>"; };
-		6907603EF11A66052DE8A51B2D004153 /* QNDnsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnsManager.h; path = HappyDNS/Common/QNDnsManager.h; sourceTree = "<group>"; };
+		697FEF25401BE49ED829DC264938BAF9 /* QNGetAddrInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNGetAddrInfo.m; path = HappyDNS/Util/QNGetAddrInfo.m; sourceTree = "<group>"; };
 		69BC96DD0FD7B8B7D207FD88F043DEDF /* RCTFrameUpdate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTFrameUpdate.m; sourceTree = "<group>"; };
-		6ABC85DC4860620B4EE9CF2D226A9D10 /* PLPlayerKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerKit.h; path = Pod/Library/include/PLPlayerKit/PLPlayerKit.h; sourceTree = "<group>"; };
 		6AEC5D10104522CAF813968E9A7D0C48 /* RCTLocalAssetImageLoader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTLocalAssetImageLoader.m; sourceTree = "<group>"; };
 		6BAAF2CEAD3529B35224FD36EFBAAE37 /* RCTTextView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextView.m; sourceTree = "<group>"; };
 		6C58455CF61C0407E73007ECB4884E14 /* UIView+React.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+React.m"; sourceTree = "<group>"; };
-		6DB96ED68D92BF989A02BB0695C82866 /* QNHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHex.m; path = HappyDNS/Util/QNHex.m; sourceTree = "<group>"; };
+		6E4C240CB72F53904D4365F4F2A74520 /* QNNetworkInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNNetworkInfo.h; path = HappyDNS/Common/QNNetworkInfo.h; sourceTree = "<group>"; };
+		6FCA295A4107726BE33B3761F0F3D243 /* PLAudioEffectCustomConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioEffectCustomConfiguration.h; path = Pod/Library/include/Common/PLAudioEffectCustomConfiguration.h; sourceTree = "<group>"; };
 		70508264E103575C4EF9BA6EE99C7E15 /* RCTNetInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNetInfo.h; sourceTree = "<group>"; };
-		707FDB19BF06F8482BD016CD80678F13 /* QNAssessment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNAssessment.m; path = HappyDNS/Assessment/QNAssessment.m; sourceTree = "<group>"; };
 		709741A873FBF86AF8EDBD15E643D578 /* RCTJSCWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTJSCWrapper.h; sourceTree = "<group>"; };
 		7425AD569A37672DB4447F5DA93CE5C7 /* RCTPointerEvents.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPointerEvents.h; sourceTree = "<group>"; };
 		74C659F1353740536C2D00EC0D2B5AEB /* RCTKeyCommands.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTKeyCommands.h; sourceTree = "<group>"; };
@@ -659,40 +656,34 @@
 		78D11A6C777E025916045A0666FD7DCE /* RCTStatusBarManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTStatusBarManager.m; sourceTree = "<group>"; };
 		78F29344533CCDA947C610F53060D5AE /* RCTTabBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTabBar.m; sourceTree = "<group>"; };
 		78FCA2F7C277EBD90097B011BACD8BBB /* RCTWebSocketProxyDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebSocketProxyDelegate.h; sourceTree = "<group>"; };
-		790E735FC13E7C04350C8614AF92590B /* PLAudioEffectCustomConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioEffectCustomConfiguration.h; path = Pod/Library/include/Common/PLAudioEffectCustomConfiguration.h; sourceTree = "<group>"; };
 		7A5E82671B001C47EB8DE254C1B7AE9F /* RCTFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFont.h; sourceTree = "<group>"; };
 		7A91D5A3A8A817E9935A53D7ACCB5643 /* RCTMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMap.h; sourceTree = "<group>"; };
 		7BFCDED7B2824F2FDE544FDCE09BC30A /* RCTBorderDrawing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBorderDrawing.h; sourceTree = "<group>"; };
-		7C66A799B307D2FE80B9AF5AF02DE08B /* QNHijackingDetectWrapper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHijackingDetectWrapper.m; path = HappyDNS/Local/QNHijackingDetectWrapper.m; sourceTree = "<group>"; };
+		7C2E317065CE493DDB3D5B68E515C47B /* QNHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHex.m; path = HappyDNS/Util/QNHex.m; sourceTree = "<group>"; };
 		7E9DFA62C067CED7B94A69C7A0222881 /* RCTUIManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTUIManager.h; sourceTree = "<group>"; };
 		7F4FE64625FB52FF86054A222E010DA8 /* RCTEventDispatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTEventDispatcher.h; sourceTree = "<group>"; };
+		7F813A3B4027D1D9D84D3BE859FA3BBA /* QNRefresher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNRefresher.m; path = HappyDNS/QNRefresher.m; sourceTree = "<group>"; };
 		7F9F76DBFBCA9CE0C554A4C74B39514A /* RCTRedBox.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRedBox.m; sourceTree = "<group>"; };
-		7FAA5789425BA3795A22DEBE84B3D79A /* QNDnspodEnterprise.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnspodEnterprise.m; path = HappyDNS/Http/QNDnspodEnterprise.m; sourceTree = "<group>"; };
 		80304A7D8E0532601D410E3AB0186FEF /* RCTSegmentedControlManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSegmentedControlManager.h; sourceTree = "<group>"; };
-		80E6AB2FA624B49DBD8ADDB32B61EC77 /* QNRefresher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNRefresher.m; path = HappyDNS/QNRefresher.m; sourceTree = "<group>"; };
 		81029EC227564CF9D2201305D2830223 /* RCTPickerManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPickerManager.m; sourceTree = "<group>"; };
 		81180D220CF66EAEDCF3B2A01961699B /* RCTImageUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageUtils.m; sourceTree = "<group>"; };
 		819D3171FAD97AB669B394884ABBE437 /* RCTWebViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWebViewManager.m; sourceTree = "<group>"; };
-		81D65433C6C2E1D4AA5E0518EA0E379E /* QNResolver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolver.h; path = HappyDNS/Local/QNResolver.h; sourceTree = "<group>"; };
 		8396B877C2FAFE7BB9A5AFB818C9FACA /* RCTAlertManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAlertManager.h; sourceTree = "<group>"; };
 		83CD3EE8B15D129E4334B735DC5A6DBF /* RCTTabBarManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTabBarManager.m; sourceTree = "<group>"; };
-		84EC12676BB81151D36D3A358F758868 /* pili-librtmp.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "pili-librtmp.xcconfig"; sourceTree = "<group>"; };
-		860DCD5BC759F7AECCE0A7A39D513794 /* QNIpModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNIpModel.m; path = HappyDNS/Assessment/QNIpModel.m; sourceTree = "<group>"; };
+		85ECF15CA36564EE9DFA5FC5662113E8 /* QNHosts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHosts.h; path = HappyDNS/Local/QNHosts.h; sourceTree = "<group>"; };
 		865072B817903A525D36EB84219E44AE /* libRCTPili.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRCTPili.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B33D7C5C42864F2A0F178CA4153066 /* RCTResizeMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTResizeMode.h; sourceTree = "<group>"; };
 		87399286C2F396A8A513AD583AE6EEA5 /* RCTView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTView.m; sourceTree = "<group>"; };
-		88121CF40E0EA6F9ED73E808AB7FA0AF /* rtmp_sys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = rtmp_sys.h; path = "Pod/Classes/pili-librtmp/rtmp_sys.h"; sourceTree = "<group>"; };
-		88EF1BFA5D96CEF7B2DCCBA2F6D997CE /* QNTxtResolver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNTxtResolver.m; path = HappyDNS/Local/QNTxtResolver.m; sourceTree = "<group>"; };
+		877C1719423C5B7F4E4DD60C00B8C10A /* QNResolvUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolvUtil.h; path = HappyDNS/Local/QNResolvUtil.h; sourceTree = "<group>"; };
 		8990908C2DB0A4BA720418D0712167A6 /* RCTFPSGraph.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFPSGraph.h; sourceTree = "<group>"; };
 		89EF0E90861D47AD10EF27D0D619EEB5 /* RCTImageViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageViewManager.h; sourceTree = "<group>"; };
 		8B2DFD94E5B963C89F12990A8BCB530C /* RCTAccessibilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAccessibilityManager.h; sourceTree = "<group>"; };
-		8BB064FF431FCC8EF252144B054AEBF3 /* QNNetworkInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNNetworkInfo.m; path = HappyDNS/Common/QNNetworkInfo.m; sourceTree = "<group>"; };
 		8C4E33C16952020386930A09AD6B5A29 /* RCTSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSegmentedControl.m; sourceTree = "<group>"; };
-		8D0868D311556990588B4485AF84315A /* QNAssessment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNAssessment.h; path = HappyDNS/Assessment/QNAssessment.h; sourceTree = "<group>"; };
+		8CB8F4898B5C1CAAC8CDEC5F8A217BBF /* QNRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNRecord.h; path = HappyDNS/Common/QNRecord.h; sourceTree = "<group>"; };
 		8E2B054EDDBE81B3B8877ECA61DF2AD2 /* RCTTabBarItemManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTabBarItemManager.h; sourceTree = "<group>"; };
-		8EB475147417D94D327F22140A1891BF /* libPLPlayerKit.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libPLPlayerKit.a; path = Pod/Library/lib/libPLPlayerKit.a; sourceTree = "<group>"; };
 		8F1B1201AF2B289D5F0BE48705A5417E /* RCTRefreshControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRefreshControl.m; sourceTree = "<group>"; };
 		907A9C5843469B6F16E13A4A0E3A0A3C /* RCTI18nUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTI18nUtil.h; sourceTree = "<group>"; };
+		90A8A1AA3D93B91D45C77D47063675C9 /* PLStreamingSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingSession.h; path = Pod/Library/include/PLStreamingKit/PLStreamingSession.h; sourceTree = "<group>"; };
 		911E639DA4645A793D2F450996D49C69 /* RCTNavigatorManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNavigatorManager.h; sourceTree = "<group>"; };
 		9156BA67F10535282C94A6D404C0A596 /* Pods-airappsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-airappsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		91B1982BB95B08333D863574E0EE4B28 /* RCTBundleURLProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBundleURLProvider.h; sourceTree = "<group>"; };
@@ -700,7 +691,6 @@
 		92409102BB025EF86D8D0057C9A2B14D /* libPods-airapps.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-airapps.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9276940334F319F8B74B6B441D1207DA /* RCTMap.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMap.m; sourceTree = "<group>"; };
 		927D1F381B84054FC978A1D43713C777 /* RCTMapOverlay.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMapOverlay.h; sourceTree = "<group>"; };
-		92E265C32E19D99C5982E284B6B9B848 /* QNDomain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDomain.h; path = HappyDNS/Common/QNDomain.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94230708EECD4EEF13C99FEE535D689F /* RCTConvert+CoreLocation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+CoreLocation.h"; sourceTree = "<group>"; };
 		943D0051FE5DCAA2E28156C993695BF1 /* Reachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
@@ -711,63 +701,69 @@
 		9694828EDB8262869DA4AE96FE6B1FCA /* RCTRootView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRootView.h; sourceTree = "<group>"; };
 		96A4773AF686C2D7EA50C44DF79FC074 /* RCTRefreshControlManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRefreshControlManager.m; sourceTree = "<group>"; };
 		96A60354D8875A2D40D709CD8F9AE6A0 /* RCTShadowView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTShadowView.h; sourceTree = "<group>"; };
-		96B6E80C86DB6D536DB38669F222FE22 /* HappyDNS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HappyDNS.xcconfig; sourceTree = "<group>"; };
 		975105520727D511DD95F9ED1C16297C /* RCTAutoInsetsProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAutoInsetsProtocol.h; sourceTree = "<group>"; };
 		97A3C0386DD099D15127BD047D79AC4A /* Pods-airapps-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-airapps-dummy.m"; sourceTree = "<group>"; };
 		97B104E543228DF4706DC5FB81F72C9A /* RCTSegmentedControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSegmentedControl.h; sourceTree = "<group>"; };
+		98E1E68D6C05E216507C4B4F9D130094 /* log.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = log.h; path = "Pod/Classes/pili-librtmp/log.h"; sourceTree = "<group>"; };
 		9913AB5FF5682DF3E4B962C399092C24 /* RCTImageEditingManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageEditingManager.h; sourceTree = "<group>"; };
 		99FB5967C892EBFC46F2C0F8D24FB7B3 /* RCTUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTUtils.m; sourceTree = "<group>"; };
 		9A221DC92E02FA40DD5674571C77DC65 /* RCTShadowRawText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTShadowRawText.h; sourceTree = "<group>"; };
-		9B785FA1FB3EBF86732AA26F53DA517D /* PLAudioPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioPlayer.h; path = Pod/Library/include/Common/PLAudioPlayer.h; sourceTree = "<group>"; };
+		9A3FA0C8A7F33000C72AEAC0AAB0615C /* PLStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingKit.h; path = Pod/Library/include/PLStreamingKit/PLStreamingKit.h; sourceTree = "<group>"; };
+		9A7CB133DAD3C1755E14BAC14BE5B2B1 /* QNRefresher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNRefresher.h; path = HappyDNS/QNRefresher.h; sourceTree = "<group>"; };
+		9ABE0BCAE29D2DA68276557D791B7019 /* QNIP.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNIP.h; path = HappyDNS/Util/QNIP.h; sourceTree = "<group>"; };
+		9B4D26B1369268CD483461551652785B /* QNHijackingDetectWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHijackingDetectWrapper.h; path = HappyDNS/Local/QNHijackingDetectWrapper.h; sourceTree = "<group>"; };
 		9C0B4B51589DB5EB5F230EAA6C031118 /* RCTImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageCache.h; sourceTree = "<group>"; };
 		9DD6CF133F9C46C3C856CECA9D552667 /* RCTWrapperViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWrapperViewController.h; sourceTree = "<group>"; };
 		9DF3E9C7F1183F8ECFA71565200CF74C /* RCTProfileTrampoline-x86_64.S */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.asm; path = "RCTProfileTrampoline-x86_64.S"; sourceTree = "<group>"; };
-		9E63247FC073AEFDFBCC5BB7A7936687 /* dh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = dh.h; path = "Pod/Classes/pili-librtmp/dh.h"; sourceTree = "<group>"; };
-		9F217F3CE0141C7C77D92D17A1AF4B58 /* PLBuffer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLBuffer.h; path = Pod/Library/include/Common/PLBuffer.h; sourceTree = "<group>"; };
+		9FD46F3F24615CDD392627CA64DEB3AA /* QNResolver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNResolver.m; path = HappyDNS/Local/QNResolver.m; sourceTree = "<group>"; };
 		A021A1762F2A8167364127828B9EB517 /* RCTProfile.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTProfile.m; sourceTree = "<group>"; };
 		A0722DFF692F146F4814993616545507 /* ARTShapeManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTShapeManager.m; sourceTree = "<group>"; };
 		A0CE7628E0192879ADDDAECFAD3BD24E /* RCTDevLoadingView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDevLoadingView.m; sourceTree = "<group>"; };
-		A1651DA1C211E317E1F4067A0921EA19 /* HappyDNS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HappyDNS-dummy.m"; sourceTree = "<group>"; };
-		A1F8934FAECECBCB80D5FD7985B637BB /* QNDnspodFree.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnspodFree.h; path = HappyDNS/Http/QNDnspodFree.h; sourceTree = "<group>"; };
+		A19BC413A3F1D042316AB3D0A0E9678A /* pili-librtmp.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "pili-librtmp.xcconfig"; sourceTree = "<group>"; };
 		A201D6A8293163F516343FE81413CC6F /* ARTSolidColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTSolidColor.m; sourceTree = "<group>"; };
 		A21F269084309F9AE743A3CD1B575577 /* Pods-airappsUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-airappsUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		A37E03A769988064927B5E74ABD2BEAC /* http.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = http.h; path = "Pod/Classes/pili-librtmp/http.h"; sourceTree = "<group>"; };
+		A358CB9B823E65F769B30EF195AE99D7 /* QNResolver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolver.h; path = HappyDNS/Local/QNResolver.h; sourceTree = "<group>"; };
 		A3CFD8DA2462B556CD8E09EB7F4FE18A /* RCTSwitchManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSwitchManager.m; sourceTree = "<group>"; };
 		A3FE64C4A588D39DEEBC580366DF5D06 /* RCTParserUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTParserUtils.h; sourceTree = "<group>"; };
 		A44BA1459ECF749603023F16E9068DF9 /* RCTTabBarManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTabBarManager.h; sourceTree = "<group>"; };
-		A5493BC847828AB2BC87B4B215D1ABEA /* log.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = log.h; path = "Pod/Classes/pili-librtmp/log.h"; sourceTree = "<group>"; };
 		A5983EDF4FEBB096F14F9144558D622E /* Pods-airapps-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-airapps-resources.sh"; sourceTree = "<group>"; };
 		A5FBF1FDC889E9CB6C42B92B804F175E /* RCTFont.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; path = RCTFont.mm; sourceTree = "<group>"; };
 		A62E62CEA88F60F387CEC37C79797C5A /* RCTWebSocketModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebSocketModule.h; sourceTree = "<group>"; };
 		A67D9D3AD2B44EC851309905F7DB4A7D /* RCTActivityIndicatorView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTActivityIndicatorView.h; sourceTree = "<group>"; };
+		A6B4A49FDEE1F947F20FAF3856EBF337 /* QNHosts.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHosts.m; path = HappyDNS/Local/QNHosts.m; sourceTree = "<group>"; };
+		A6F7CA9DE0D8EA76B38625CFAE819401 /* rtmp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = rtmp.h; path = "Pod/Classes/pili-librtmp/rtmp.h"; sourceTree = "<group>"; };
 		A76DEBD4722B3EAB9E212EC7EBFE19A9 /* RCTI18nUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTI18nUtil.m; sourceTree = "<group>"; };
 		A798F0CE50B20B0F98EA8BC807C3808D /* Pods-airapps-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-airapps-frameworks.sh"; sourceTree = "<group>"; };
 		A7D4F55D33FC32DFADE55ADBD6E44F1D /* RCTShadowView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTShadowView.m; sourceTree = "<group>"; };
 		A7E5E9649BCEB0022C692BE86200B672 /* ARTRadialGradient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTRadialGradient.h; sourceTree = "<group>"; };
+		A7F21351AD967865296F85F66039A8DF /* PLAudioCaptureConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioCaptureConfiguration.h; path = Pod/Library/include/Common/PLAudioCaptureConfiguration.h; sourceTree = "<group>"; };
+		A8003E5B1838E9C5F8AC8850694B32D4 /* PLStreamStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamStatus.h; path = Pod/Library/include/Common/PLStreamStatus.h; sourceTree = "<group>"; };
 		A9189545D4C94CAA5AE5256BB433A639 /* RCTI18nManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTI18nManager.m; sourceTree = "<group>"; };
-		A91ABFB21D1B32929F6D5E1A364E2F01 /* PLPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayer.h; path = Pod/Library/include/PLPlayerKit/PLPlayer.h; sourceTree = "<group>"; };
 		A91D963DE6973C77A6A0047B99CA759F /* RCTBridgeMethod.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBridgeMethod.h; sourceTree = "<group>"; };
-		A9816813F92437AD9B774186F84D3CB1 /* QNRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNRecord.h; path = HappyDNS/Common/QNRecord.h; sourceTree = "<group>"; };
-		AC176E3575B1D4F23964C75E1A4D0809 /* QNRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNRecord.m; path = HappyDNS/Common/QNRecord.m; sourceTree = "<group>"; };
+		A99D1231ABE1AE4B9144A1DCE96F3C20 /* rtmp_sys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = rtmp_sys.h; path = "Pod/Classes/pili-librtmp/rtmp_sys.h"; sourceTree = "<group>"; };
 		AC7D313E9567CBC98FA496D58BCCB1A0 /* ARTRenderable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTRenderable.h; sourceTree = "<group>"; };
 		AC98BF74519EC7186C6E140BC4C3438B /* RCTNavItemManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNavItemManager.m; sourceTree = "<group>"; };
+		AD62686D67D2A2FA9202C7B9E2C97F18 /* amf.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = amf.c; path = "Pod/Classes/pili-librtmp/amf.c"; sourceTree = "<group>"; };
 		AD70A560884D07CE591A4A33799F7C8E /* Pods-airappsUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-airappsUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		ADA91197B07F62008B8FC854072FE10C /* PLStream.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStream.h; path = Pod/Library/include/Common/PLStream.h; sourceTree = "<group>"; };
 		ADB38EE7724B63753364E493E4B9E22B /* Reachability.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		ADE37E527DA636673810AB190F613F9A /* WXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApiObject.h; path = SDKExport/WXApiObject.h; sourceTree = "<group>"; };
 		AEB25E958388F595B7F481DF9C0F4AEA /* RCTImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageView.h; sourceTree = "<group>"; };
 		AF198E367C29B7AB739EB1D264449C14 /* RCTEventEmitter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTEventEmitter.m; sourceTree = "<group>"; };
 		AF545D43A6197B08A348B0FB3F5A5ABA /* UIView+React.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+React.h"; sourceTree = "<group>"; };
+		AF5925406326B5C5326E9F52E69A9190 /* HappyDNS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HappyDNS-dummy.m"; sourceTree = "<group>"; };
+		B0334BE3E2816720A73B5F653397768A /* QNResolverDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolverDelegate.h; path = HappyDNS/Common/QNResolverDelegate.h; sourceTree = "<group>"; };
 		B093BF75EFD521D7E2E9E8A8B75E1D6D /* RCTImageStoreManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageStoreManager.h; sourceTree = "<group>"; };
+		B0E8932D9339674235BF075402C93776 /* pili-librtmp-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pili-librtmp-prefix.pch"; sourceTree = "<group>"; };
 		B186059667F1C7D58BB3789A9AF2F9C0 /* RCTNavItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNavItem.h; sourceTree = "<group>"; };
-		B22B181B06E5A06752AD1EB43164B3E5 /* PLAudioCaptureConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLAudioCaptureConfiguration.h; path = Pod/Library/include/Common/PLAudioCaptureConfiguration.h; sourceTree = "<group>"; };
-		B22FF1E52AC24530B9AC3DD66844E2E2 /* QNDnsManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnsManager.m; path = HappyDNS/Common/QNDnsManager.m; sourceTree = "<group>"; };
 		B2444412DAC8939EE6C015A2377F34D8 /* RCTWebSocketManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebSocketManager.h; sourceTree = "<group>"; };
+		B290887C41D764BDD7E91E38D96C3BBF /* PLCommon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCommon.h; path = Pod/Library/include/Common/PLCommon.h; sourceTree = "<group>"; };
 		B4C23380463BE019F1BD7DB17C9FD25B /* ARTRenderable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTRenderable.m; sourceTree = "<group>"; };
 		B573D4EFC3B4838089C0D620A06A36A8 /* RCTText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTText.h; sourceTree = "<group>"; };
 		B5C48054096742AA46F8CC9FBA8B8D62 /* RCTPlayerManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPlayerManager.m; sourceTree = "<group>"; };
 		B74D33822568FE97FE74A907DF7018C2 /* RCTPili-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RCTPili-prefix.pch"; sourceTree = "<group>"; };
-		B7F6A1B0A785F2979A1D8EE58AC4E806 /* QNResolverDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolverDelegate.h; path = HappyDNS/Common/QNResolverDelegate.h; sourceTree = "<group>"; };
 		B80DDBE713B7427EB10EFB44651FA95D /* RCTDisplayLink.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDisplayLink.h; sourceTree = "<group>"; };
+		B876AEEAA0AC7FCD1440FCF3C8A3240F /* HappyDNS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HappyDNS-prefix.pch"; sourceTree = "<group>"; };
+		B88643EAADD1624EEC4F18A3EF192CD6 /* QNGetAddrInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNGetAddrInfo.h; path = HappyDNS/Util/QNGetAddrInfo.h; sourceTree = "<group>"; };
 		B88CFB041B5981821DEDC83CBD19E0E0 /* React-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "React-dummy.m"; sourceTree = "<group>"; };
 		BA0AB7D4021A7EB1F6A984D2163AB71B /* RCTAssert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAssert.m; sourceTree = "<group>"; };
 		BA2728165EED9EA93F35EC476E5D8253 /* RCTEventEmitter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTEventEmitter.h; sourceTree = "<group>"; };
@@ -777,7 +773,6 @@
 		BB0E7EEF4C76FDF4798463A089296A17 /* CSSNodeList.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = CSSNodeList.c; sourceTree = "<group>"; };
 		BB6848A730CC9C79665344305AF8727F /* RCTNavigator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNavigator.h; sourceTree = "<group>"; };
 		BB90C26F14862A9667E7B9D1861EC168 /* RCTTextFieldManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextFieldManager.m; sourceTree = "<group>"; };
-		BBB402626E24B606B28B4DBBFC70869F /* QNHosts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHosts.h; path = HappyDNS/Local/QNHosts.h; sourceTree = "<group>"; };
 		BBC7B772BB5B54A9301EA70077841D85 /* RCTConvert+ART.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+ART.h"; sourceTree = "<group>"; };
 		BC0FAC033CE98A5336EB475A7FFF8D56 /* RCTComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTComponent.h; sourceTree = "<group>"; };
 		BC30A04FC95C7206040B2127CAD45C8B /* RCTNetInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNetInfo.m; sourceTree = "<group>"; };
@@ -795,39 +790,41 @@
 		C18276AF1563AE0CD21020B721A059E8 /* RCTBorderStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBorderStyle.h; sourceTree = "<group>"; };
 		C2F27CEB52B05194DEFE39BE99647651 /* ARTRenderableManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTRenderableManager.m; sourceTree = "<group>"; };
 		C36E3DBDCC9788F56A01858952BF0E8F /* libpili-librtmp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libpili-librtmp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C36E4932C58C424D5FD7651F27509664 /* parseurl.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = parseurl.c; path = "Pod/Classes/pili-librtmp/parseurl.c"; sourceTree = "<group>"; };
 		C378BE503ECEA3B9EEBFFE9AC30EBE7E /* RCTWebViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebViewManager.h; sourceTree = "<group>"; };
 		C3DCAFA786C7B0EBBF811330014AA415 /* RCTWebSocketProxy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebSocketProxy.h; sourceTree = "<group>"; };
 		C4081CAE5B542A057E8159DA6530302A /* RCTConvert+MapKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+MapKit.h"; sourceTree = "<group>"; };
 		C4B051D92CBC496D4670C6B43CEB9DDA /* ARTSurfaceView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTSurfaceView.h; sourceTree = "<group>"; };
-		C52E0F9325AFF5304C057E3BC86AD50C /* PLStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStreamingKit.h; path = Pod/Library/include/PLStreamingKit/PLStreamingKit.h; sourceTree = "<group>"; };
+		C5416E28D98C4F1C4B45EBCBB9D3AA12 /* QNDes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDes.m; path = HappyDNS/Util/QNDes.m; sourceTree = "<group>"; };
 		C548244814437D2D31BF350D6963DF17 /* RCTBorderDrawing.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBorderDrawing.m; sourceTree = "<group>"; };
 		C5C78F04E9ED6DCBCD06C836832E24B8 /* RCTDatePickerManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDatePickerManager.m; sourceTree = "<group>"; };
 		C6475783399EB14D19104F7C8E1D253E /* RCTScrollViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollViewManager.h; sourceTree = "<group>"; };
 		C65B89C51C402C4730D7C002A5D25433 /* RCTSlider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSlider.h; sourceTree = "<group>"; };
 		C66038FDF59B26E2CDECF45C7705142B /* RCTNetworkTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTNetworkTask.h; sourceTree = "<group>"; };
-		C7043DB24B2DDBDCA45EA9B79B478157 /* QNResolvUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNResolvUtil.h; path = HappyDNS/Local/QNResolvUtil.h; sourceTree = "<group>"; };
+		C82703BF49726C64040A94051AAFE81D /* handshake.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = handshake.h; path = "Pod/Classes/pili-librtmp/handshake.h"; sourceTree = "<group>"; };
+		C85EEC107DD4C13A967ECD7F7CA19864 /* PLVideoCaptureConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLVideoCaptureConfiguration.h; path = Pod/Library/include/Common/PLVideoCaptureConfiguration.h; sourceTree = "<group>"; };
 		C878EEAF5D83D7C8C230F025868DF0BE /* React.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = React.xcconfig; sourceTree = "<group>"; };
 		C9043166C58177DEB2BCAF5513BF6A76 /* RCTModalHostViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModalHostViewController.h; sourceTree = "<group>"; };
 		C9A6EB73A045B13C7C3BCF3D312E1275 /* RCTImageLoader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageLoader.m; sourceTree = "<group>"; };
-		C9C81ABDBA38ECAC31E736215980950A /* PLVideoCaptureConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLVideoCaptureConfiguration.h; path = Pod/Library/include/Common/PLVideoCaptureConfiguration.h; sourceTree = "<group>"; };
 		CA0DA93A9FB09AD7C44EDCC2FF92D5E1 /* RCTActivityIndicatorViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTActivityIndicatorViewManager.h; sourceTree = "<group>"; };
 		CA5AC2599B823C9A9AA1D505CA6A8265 /* RCTTextViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextViewManager.h; sourceTree = "<group>"; };
 		CBAAE41BBF8F7565003F86C108373D72 /* RCTErrorInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTErrorInfo.h; sourceTree = "<group>"; };
 		CC331825774A3754EFEED9C402592E5C /* RCTImageViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageViewManager.m; sourceTree = "<group>"; };
 		CC8D4B9618EA3EDBFE890615B0B4348B /* ARTGroupManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTGroupManager.m; sourceTree = "<group>"; };
 		CCEF8B2082E34A55459FCBF83B8E4E4D /* RCTPerformanceLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPerformanceLogger.m; sourceTree = "<group>"; };
-		CD193D33092FDBB526DD3DDDB09FFBCF /* amf.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = amf.c; path = "Pod/Classes/pili-librtmp/amf.c"; sourceTree = "<group>"; };
 		CD6E229C0E182AB2A4E5B9647ECFFEF5 /* RCTTextViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTextViewManager.m; sourceTree = "<group>"; };
+		CDDC1D4499AA26C7F9FC8411A1FA3358 /* PLPlayerOption.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayerOption.h; path = Pod/Library/include/PLPlayerKit/PLPlayerOption.h; sourceTree = "<group>"; };
 		CE0ACBAC97C5436F5C47AAE34078F3EE /* RCTExceptionsManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTExceptionsManager.m; sourceTree = "<group>"; };
-		CEA6578EF895C3AEE9BD4C8AEC071099 /* handshake.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = handshake.h; path = "Pod/Classes/pili-librtmp/handshake.h"; sourceTree = "<group>"; };
 		CF847BE64C444633AF4D6A7CCC6C3DA6 /* RCTSliderManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSliderManager.h; sourceTree = "<group>"; };
 		CFA65350BE0E7EE6C781C322403A4EC5 /* ARTGroup.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTGroup.h; sourceTree = "<group>"; };
 		CFB7ED7F50729EB2D94DAE4BF03E4C20 /* RCTShadowRawText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTShadowRawText.m; sourceTree = "<group>"; };
 		CFBABE5FD0BEF2407FE4E79B40D8A69A /* RCTWrapperViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWrapperViewController.m; sourceTree = "<group>"; };
+		D004A3AD4A7DE8A2D7E7C04FF43F9317 /* QNAssessment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNAssessment.h; path = HappyDNS/Assessment/QNAssessment.h; sourceTree = "<group>"; };
 		D00B71D4C156F09A4DFDB64ACFAC1C20 /* RCTMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMacros.h; sourceTree = "<group>"; };
-		D09BF118463E97752ACD27972EACE7E1 /* pili-librtmp-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pili-librtmp-prefix.pch"; sourceTree = "<group>"; };
 		D0E20FDA58B4E5AF2C1893E34EFBEFFB /* RCTImageUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTImageUtils.h; sourceTree = "<group>"; };
+		D15052AF938120ABA903A6B7B509FD5D /* QNIpModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNIpModel.h; path = HappyDNS/Assessment/QNIpModel.h; sourceTree = "<group>"; };
 		D18B89E761FB9E72A9F8872FFDD371E0 /* ARTNodeManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTNodeManager.h; sourceTree = "<group>"; };
+		D196AAAD2F4FCD87C82192B80EF6799C /* PLVideoStreamingConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLVideoStreamingConfiguration.h; path = Pod/Library/include/Common/PLVideoStreamingConfiguration.h; sourceTree = "<group>"; };
 		D1EA39C214B92264F1F2968FA947D706 /* ARTSurfaceView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTSurfaceView.m; sourceTree = "<group>"; };
 		D2357FD31F1002EBA400C3111C001FE1 /* RCTTiming.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTiming.h; sourceTree = "<group>"; };
 		D2A3700F4555628C8AB47BA3DD4BCA6F /* RCTMapAnnotation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMapAnnotation.m; sourceTree = "<group>"; };
@@ -837,58 +834,59 @@
 		D3E44DA32E193AC4834274B8DA0A88A2 /* ARTTextManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTTextManager.m; sourceTree = "<group>"; };
 		D461B64CD86E411B38714B9FAE006283 /* RCTFPSGraph.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTFPSGraph.m; sourceTree = "<group>"; };
 		D48CBB5849230FE13844566743D21048 /* RCTProfile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTProfile.h; sourceTree = "<group>"; };
+		D5658A50E26EAE87E2231FD56390E20D /* error.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = error.h; path = "Pod/Classes/pili-librtmp/error.h"; sourceTree = "<group>"; };
 		D5FF079E95C9342E8B2AAC370E98CE70 /* RCTStatusBarManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTStatusBarManager.h; sourceTree = "<group>"; };
-		D98BEED05E46808136EB2B0D2F9BEC14 /* PLCommon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCommon.h; path = Pod/Library/include/Common/PLCommon.h; sourceTree = "<group>"; };
+		D7972504AC40E2EA02582595AA56F636 /* QNIP.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNIP.m; path = HappyDNS/Util/QNIP.m; sourceTree = "<group>"; };
 		D9AF73CD998C977BA104CB94DAEF750F /* Pods-airapps.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-airapps.debug.xcconfig"; sourceTree = "<group>"; };
 		D9B1B23DF9D97E8074CBC3B4E19D52D6 /* RCTMapAnnotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMapAnnotation.h; sourceTree = "<group>"; };
 		D9B5A41187803D8D5B73A1BEEC1BD164 /* RCTMapManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMapManager.h; sourceTree = "<group>"; };
 		DBF9AD70D63ACF354CEECC5C2FA9DEC1 /* ARTSurfaceViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTSurfaceViewManager.m; sourceTree = "<group>"; };
 		DC7BE31C7356BD25834A0CFF23B17356 /* RCTStreaming.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTStreaming.m; sourceTree = "<group>"; };
-		DD260D23343964558225D94414ECEAB5 /* QNHex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNHex.h; path = HappyDNS/Util/QNHex.h; sourceTree = "<group>"; };
 		DD3E40AF6F55A3C65BAD1843E24229B3 /* RCTRefreshControlManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRefreshControlManager.h; sourceTree = "<group>"; };
 		DD7A8F8E0B0A5FF2A3E3D4079D79BB1C /* RCTTabBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTabBar.h; sourceTree = "<group>"; };
 		DDCD8DFC317E900C8C17EE34E1088473 /* ARTSolidColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTSolidColor.h; sourceTree = "<group>"; };
-		DE89421ECA8FA371CC9175BBF72C6489 /* QNDnspodEnterprise.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnspodEnterprise.h; path = HappyDNS/Http/QNDnspodEnterprise.h; sourceTree = "<group>"; };
 		DE917CCBCD15D7B618F13F868ADB817B /* RCTComponentData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTComponentData.m; sourceTree = "<group>"; };
 		DED3AEAD7021BA38AD82BC6F16A72631 /* RCTAsyncLocalStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAsyncLocalStorage.h; sourceTree = "<group>"; };
+		DF9787CDCD31D1E1A799984E31A15FC2 /* QNDnspodEnterprise.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNDnspodEnterprise.h; path = HappyDNS/Http/QNDnspodEnterprise.h; sourceTree = "<group>"; };
 		DFB846D4B45D994D9386F39B3DAF93A0 /* RCTModalHostViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModalHostViewManager.h; sourceTree = "<group>"; };
 		E091F4AAB1F9146329DF4FFA5D2262D5 /* RCTConvert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTConvert.h; sourceTree = "<group>"; };
 		E0FD9809BC124BBD817249E50C218A4C /* RCTWebSocketModule.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWebSocketModule.m; sourceTree = "<group>"; };
 		E12BD08C2EF0602555E59D1C7AF70908 /* RCTParserUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTParserUtils.m; sourceTree = "<group>"; };
 		E1C5B974A823D4F37BE26827D9DFAC3B /* RCTBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBridge.h; sourceTree = "<group>"; };
+		E1D87008B6DE0B5848E58B9E3EE3DF47 /* PLPlayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLPlayer.h; path = Pod/Library/include/PLPlayerKit/PLPlayer.h; sourceTree = "<group>"; };
 		E1EB5831D3BFA6F317F7C69154197994 /* RCTPili.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPili.m; sourceTree = "<group>"; };
 		E218B97D884D95CE23314EDD783891D5 /* Pods-airapps-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-airapps-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E244D656474E6ECC6F3A526E21FE2AB3 /* RCTImageBlurUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageBlurUtils.m; sourceTree = "<group>"; };
 		E2AAC8359460832CE52AEEDE99B1FA72 /* ARTText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ARTText.m; sourceTree = "<group>"; };
 		E2D21E014FA6151E04F6CDFB91F25716 /* RCTPicker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPicker.m; sourceTree = "<group>"; };
+		E3978591783CC5D29D6C2A3930F91761 /* QNDnspodEnterprise.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDnspodEnterprise.m; path = HappyDNS/Http/QNDnspodEnterprise.m; sourceTree = "<group>"; };
+		E3DCFB74BE5A1A3BB8C16C95A158F2D9 /* HappyDNS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HappyDNS.xcconfig; sourceTree = "<group>"; };
+		E40807B2E5BA9E747FF7068DBB162273 /* PLCameraStreamingSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCameraStreamingSession.h; path = Pod/Library/include/PLCameraStreamingKit/PLCameraStreamingSession.h; sourceTree = "<group>"; };
 		E43C3E7E8C140DCF91BA4A2154D08C98 /* RCTShadowText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTShadowText.m; sourceTree = "<group>"; };
 		E471EFBAB778A26E5F4B1476EE670A53 /* RCTResizeMode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTResizeMode.m; sourceTree = "<group>"; };
 		E4F3C684C0B4F03C0726DFCFDBB7F71B /* UIView+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+Private.h"; sourceTree = "<group>"; };
-		E5541C782409EA9C8F5B18520624E67A /* log.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = log.c; path = "Pod/Classes/pili-librtmp/log.c"; sourceTree = "<group>"; };
 		E5B8A7899B00EA754CDBD03A9463E89B /* RCTViewControllerProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTViewControllerProtocol.h; sourceTree = "<group>"; };
 		E84E798E06FE9DF26F4A5DFEEC598D81 /* RCTKeyboardObserver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTKeyboardObserver.m; sourceTree = "<group>"; };
 		E8A47DDCD36E0C9E4CF9677927FC737B /* RCTTextField.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextField.h; sourceTree = "<group>"; };
 		E943130EF8F30AC82983D2B669C653D0 /* Pods-airapps-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-airapps-acknowledgements.plist"; sourceTree = "<group>"; };
-		E9DFED91A11A6BA2AB61184AE555FDC0 /* pili-librtmp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "pili-librtmp-dummy.m"; sourceTree = "<group>"; };
 		EA0F4190BB3ED74589FF1D3FB9DAC80A /* RCTModalHostViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTModalHostViewController.m; sourceTree = "<group>"; };
 		EA721E55711869C94621B44E3EB16EF7 /* RCTJSCProfiler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTJSCProfiler.m; sourceTree = "<group>"; };
 		EABD2D6FDEA997BC768ABD32C1DE7853 /* RCTJSCExecutor.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; path = RCTJSCExecutor.mm; sourceTree = "<group>"; };
-		EB9191F1CAC2A2BDE41A10FEB252326D /* PLCameraStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLCameraStreamingKit.h; path = Pod/Library/include/PLCameraStreamingKit/PLCameraStreamingKit.h; sourceTree = "<group>"; };
 		EC5CC7D0EA34886BCAAEB54849CC6D88 /* RCTText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTText.m; sourceTree = "<group>"; };
 		ECD3FF07B2B6A20D1078C3DF1D081B3D /* RCTImageView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageView.m; sourceTree = "<group>"; };
-		ED4B31F731774953C64676019C0B17A8 /* QNDes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDes.m; path = HappyDNS/Util/QNDes.m; sourceTree = "<group>"; };
+		EE19D646AC824C5FBBDABE577821E8F8 /* QNDomain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNDomain.m; path = HappyDNS/Common/QNDomain.m; sourceTree = "<group>"; };
 		EE5FCCA2E94892A3B07BD03A4A949471 /* RCTMapOverlay.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMapOverlay.m; sourceTree = "<group>"; };
 		EE92CDDA15C0578AD09BAAAD3041101B /* CSSMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CSSMacros.h; sourceTree = "<group>"; };
 		EF93E8E0CEA8D7E336CA74A6CBA2830E /* RCTProgressViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTProgressViewManager.h; sourceTree = "<group>"; };
-		F0112B1A8AB27126380A152AF305AC38 /* QNHosts.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNHosts.m; path = HappyDNS/Local/QNHosts.m; sourceTree = "<group>"; };
+		F01584534F3100FC81C891E231DD1843 /* dh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = dh.h; path = "Pod/Classes/pili-librtmp/dh.h"; sourceTree = "<group>"; };
 		F01611B90225EB9432359709360A4B39 /* ARTCGFloatArray.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ARTCGFloatArray.h; sourceTree = "<group>"; };
 		F07442E457F6E509EE8E8522FD6416EC /* RCTNetworkTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNetworkTask.m; sourceTree = "<group>"; };
+		F12D0536ABAE4F57FBBF1ED57B509717 /* QNAssessment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNAssessment.m; path = HappyDNS/Assessment/QNAssessment.m; sourceTree = "<group>"; };
 		F181CFA16136D1793C81233B491B2399 /* RCTVibration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTVibration.m; sourceTree = "<group>"; };
 		F23E485134CBF974997B8F0D903FCA34 /* RCTImageEditingManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTImageEditingManager.m; sourceTree = "<group>"; };
 		F251EC7827E36E553F09F622698D2BF0 /* RCTTouchEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTouchEvent.h; sourceTree = "<group>"; };
 		F3418D5FA29A8BEA72D09B14BA198F44 /* RCTNavigatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTNavigatorManager.m; sourceTree = "<group>"; };
 		F37F670E8BE9A809D77DDC5CD8C601DC /* Pods-airapps.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-airapps.release.xcconfig"; sourceTree = "<group>"; };
-		F40395EBCB940FF278A357C419B2B51F /* bytes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = bytes.h; path = "Pod/Classes/pili-librtmp/bytes.h"; sourceTree = "<group>"; };
 		F666C71050D0324DA7DD51ED54DD7655 /* RCTPickerManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPickerManager.h; sourceTree = "<group>"; };
 		F6695AFB2BFF4C558B36033D3DAEE462 /* RCTJavaScriptLoader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTJavaScriptLoader.m; sourceTree = "<group>"; };
 		F7890EC3ABA32FD81ABF498189E27027 /* RCTConvert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTConvert.m; sourceTree = "<group>"; };
@@ -899,16 +897,15 @@
 		F9A98907C60FB4000D37F9AFA387B9A9 /* RCTVibration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTVibration.h; sourceTree = "<group>"; };
 		FA2235762B32F79743A1F2341D3C42F3 /* Pods-airappsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-airappsUITests.release.xcconfig"; sourceTree = "<group>"; };
 		FA71FD3D146A770558D8600ACCE35ACE /* RCTStreaming.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTStreaming.h; sourceTree = "<group>"; };
-		FA9CE2B2DD117CCF9F59817EC4AC76F1 /* QNIpModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QNIpModel.h; path = HappyDNS/Assessment/QNIpModel.h; sourceTree = "<group>"; };
 		FA9E01DC33B78971F41A838988FAEB15 /* RCTActivityIndicatorView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTActivityIndicatorView.m; sourceTree = "<group>"; };
-		FB04B3E199CA3B246C37B73C1807D7B0 /* error.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = error.h; path = "Pod/Classes/pili-librtmp/error.h"; sourceTree = "<group>"; };
 		FB5FC6836A07CA747815107A4A671D6F /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FBA56F20B6F444E304AEF5B042D3CF5C /* error.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = error.c; path = "Pod/Classes/pili-librtmp/error.c"; sourceTree = "<group>"; };
 		FBADDE589323D6B0320C5093401C4DCE /* RCTDisplayLink.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDisplayLink.m; sourceTree = "<group>"; };
-		FC43E83371CA62767672EA872E6704B7 /* PLStream.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLStream.h; path = Pod/Library/include/Common/PLStream.h; sourceTree = "<group>"; };
 		FD6D33D9FFED49583842BB5C0F8CB63F /* RCTDatePicker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDatePicker.m; sourceTree = "<group>"; };
 		FD7089886DAF77A58BDAB46BABD90815 /* RCTScrollViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTScrollViewManager.m; sourceTree = "<group>"; };
-		FF0E3AEEAE2AA340030B5438B0601329 /* dhgroups.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = dhgroups.h; path = "Pod/Classes/pili-librtmp/dhgroups.h"; sourceTree = "<group>"; };
 		FF3EE20D40BF7D0A5CC6A16B28431789 /* RCTUIManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTUIManager.m; sourceTree = "<group>"; };
+		FF48BAAF8A8F8CC422025211CE3B1483 /* PLMediaStreamingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PLMediaStreamingKit.h; path = Pod/Library/include/PLMediaStreamingKit.h; sourceTree = "<group>"; };
+		FF60A7DC20594E8234C4FBA18DCBBC22 /* QNResolvUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QNResolvUtil.m; path = HappyDNS/Local/QNResolvUtil.m; sourceTree = "<group>"; };
 		FFAC08F26BA5F2D7DA891E71C92E103D /* RCTTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -965,6 +962,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		00B75402FACBA7FBD07006FE6D7BDB7D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E3DCFB74BE5A1A3BB8C16C95A158F2D9 /* HappyDNS.xcconfig */,
+				AF5925406326B5C5326E9F52E69A9190 /* HappyDNS-dummy.m */,
+				B876AEEAA0AC7FCD1440FCF3C8A3240F /* HappyDNS-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/HappyDNS";
+			sourceTree = "<group>";
+		};
 		0391148C3A4355EA5538E6452556B43C /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -982,16 +990,6 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		07CF432228E78B65C26FE3C0F9463238 /* WeChatSDK */ = {
-			isa = PBXGroup;
-			children = (
-				53A6DEA0B0875867B94DE956F09945BF /* WXApi.h */,
-				ADE37E527DA636673810AB190F613F9A /* WXApiObject.h */,
-				B59286A2B5FAA0AAFB06F3E706154A8E /* Frameworks */,
-			);
-			path = WeChatSDK;
-			sourceTree = "<group>";
-		};
 		07FA8B530ABFCBB93303092E1955363F /* Vibration */ = {
 			isa = PBXGroup;
 			children = (
@@ -1001,12 +999,31 @@
 			path = Vibration;
 			sourceTree = "<group>";
 		};
+		09617EEAF42116D93B2B4D08878512F3 /* precompiled */ = {
+			isa = PBXGroup;
+			children = (
+				990CF2EA80B8ABD27A5CB08BB1C4DBF7 /* Frameworks */,
+			);
+			name = precompiled;
+			sourceTree = "<group>";
+		};
 		114BC3721BE84A7A6969D6A3B725E39D /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
 				07FA8B530ABFCBB93303092E1955363F /* Vibration */,
 			);
 			path = Libraries;
+			sourceTree = "<group>";
+		};
+		1C454CA99579C46B67AD67DE1421B239 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				719B3AD4AD54DBCA8A3A2127FBC3090F /* HappyDNS */,
+				70615DABD5B6D3BB0C53449BD500834F /* pili-librtmp */,
+				B2DDAD519F780645600D0F886AA68303 /* PLMediaStreamingKit */,
+				A22DD7BB763F4754516711C3F2435D75 /* PLPlayerKit */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		1D01046FC4C4CD956597F40F2A6FF680 /* ViewManagers */ = {
@@ -1028,20 +1045,23 @@
 			path = ViewManagers;
 			sourceTree = "<group>";
 		};
-		2301E404B434372ACF6DC21F64A078E1 /* precompiled */ = {
+		1FBB28FC8BFF6D94AB60BA6D8FBBA100 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				EBB9F068CF5F81906C17325E41F92948 /* Frameworks */,
+				A7F21351AD967865296F85F66039A8DF /* PLAudioCaptureConfiguration.h */,
+				01B29878A3103CB16062D850ED9E781F /* PLAudioEffectConfiguration.h */,
+				6FCA295A4107726BE33B3761F0F3D243 /* PLAudioEffectCustomConfiguration.h */,
+				106E31AE186D49BA32CD5A21FECE190A /* PLAudioPlayer.h */,
+				59E6867CC2B326D951AF0FFADD87E434 /* PLAudioStreamingConfiguration.h */,
+				106417CAE1CAA1B90B72E8183826D064 /* PLBuffer.h */,
+				B290887C41D764BDD7E91E38D96C3BBF /* PLCommon.h */,
+				ADA91197B07F62008B8FC854072FE10C /* PLStream.h */,
+				A8003E5B1838E9C5F8AC8850694B32D4 /* PLStreamStatus.h */,
+				4B6B3F72E8B31D6D49DD96026CF3C77F /* PLTypeDefines.h */,
+				C85EEC107DD4C13A967ECD7F7CA19864 /* PLVideoCaptureConfiguration.h */,
+				D196AAAD2F4FCD87C82192B80EF6799C /* PLVideoStreamingConfiguration.h */,
 			);
-			name = precompiled;
-			sourceTree = "<group>";
-		};
-		25E0E8CA81307CF133E8B0780261A54C /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1CA7247C29A9CCF26809A13C86B78A56 /* libPLMediaStreamingKit.a */,
-			);
-			name = Frameworks;
+			name = Common;
 			sourceTree = "<group>";
 		};
 		284738BBE9E05300A555CA93DDFB0A59 /* Targets Support Files */ = {
@@ -1087,17 +1107,6 @@
 				2DFF8C5EC9605069A13CFC93F1692383 /* Libraries */,
 			);
 			name = RCTActionSheet;
-			sourceTree = "<group>";
-		};
-		33D5EE0858953D7D0522A4E992DC8125 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				96B6E80C86DB6D536DB38669F222FE22 /* HappyDNS.xcconfig */,
-				A1651DA1C211E317E1F4067A0921EA19 /* HappyDNS-dummy.m */,
-				1D0B150FD14C55375889D099CCD68755 /* HappyDNS-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/HappyDNS";
 			sourceTree = "<group>";
 		};
 		3FC424C104CE2C546B1FB059A6ABAC2E /* Base */ = {
@@ -1200,43 +1209,6 @@
 			path = "../../../../../ios/Pods/Target Support Files/RCTPili";
 			sourceTree = "<group>";
 		};
-		5B0DF9C7299DC8F8B3D9AE85BAFC9270 /* PLPlayerKit */ = {
-			isa = PBXGroup;
-			children = (
-				A91ABFB21D1B32929F6D5E1A364E2F01 /* PLPlayer.h */,
-				15D69891914661D1AE4A7E41AF222CC3 /* PLPlayerEnv.h */,
-				1FCD60C2A409982490DD3AD5002E92D7 /* PLPlayerError.h */,
-				6ABC85DC4860620B4EE9CF2D226A9D10 /* PLPlayerKit.h */,
-				23A21CB183962ADA41FEB4DEDD6CB5B6 /* PLPlayerOption.h */,
-				2301E404B434372ACF6DC21F64A078E1 /* precompiled */,
-			);
-			path = PLPlayerKit;
-			sourceTree = "<group>";
-		};
-		5BBDC60CF928D47EFE75F5E659E2A02E /* pili-librtmp */ = {
-			isa = PBXGroup;
-			children = (
-				CD193D33092FDBB526DD3DDDB09FFBCF /* amf.c */,
-				19C2596927DED4BE3A9809F8D34E7545 /* amf.h */,
-				F40395EBCB940FF278A357C419B2B51F /* bytes.h */,
-				9E63247FC073AEFDFBCC5BB7A7936687 /* dh.h */,
-				FF0E3AEEAE2AA340030B5438B0601329 /* dhgroups.h */,
-				49ADE051F02A079B745B1016EF19B877 /* error.c */,
-				FB04B3E199CA3B246C37B73C1807D7B0 /* error.h */,
-				CEA6578EF895C3AEE9BD4C8AEC071099 /* handshake.h */,
-				313E547793E59DA1020DA4878E285DB4 /* hashswf.c */,
-				A37E03A769988064927B5E74ABD2BEAC /* http.h */,
-				E5541C782409EA9C8F5B18520624E67A /* log.c */,
-				A5493BC847828AB2BC87B4B215D1ABEA /* log.h */,
-				278A854296AE55C8A6FC64F96A14F4BF /* parseurl.c */,
-				54CFECC45EC831BFAF100EF277F213EE /* rtmp.c */,
-				2D989D32751FB418333FEAD4D234D1E3 /* rtmp.h */,
-				88121CF40E0EA6F9ED73E808AB7FA0AF /* rtmp_sys.h */,
-				704A44A40CEDA73CB212C0799CD895A3 /* Support Files */,
-			);
-			path = "pili-librtmp";
-			sourceTree = "<group>";
-		};
 		61190318D242F2EEE510E5A0EB1CB2A2 /* Pods-airappsUITests */ = {
 			isa = PBXGroup;
 			children = (
@@ -1295,15 +1267,76 @@
 			name = RCTGeolocation;
 			sourceTree = "<group>";
 		};
-		704A44A40CEDA73CB212C0799CD895A3 /* Support Files */ = {
+		70615DABD5B6D3BB0C53449BD500834F /* pili-librtmp */ = {
 			isa = PBXGroup;
 			children = (
-				84EC12676BB81151D36D3A358F758868 /* pili-librtmp.xcconfig */,
-				E9DFED91A11A6BA2AB61184AE555FDC0 /* pili-librtmp-dummy.m */,
-				D09BF118463E97752ACD27972EACE7E1 /* pili-librtmp-prefix.pch */,
+				AD62686D67D2A2FA9202C7B9E2C97F18 /* amf.c */,
+				33DFD58F66312D9C3758178D412FABE0 /* amf.h */,
+				32718A0EDBCDD19EB2920E2DD1DBC779 /* bytes.h */,
+				F01584534F3100FC81C891E231DD1843 /* dh.h */,
+				5EAFC5AD1DC1472B69C6C5CC654C367A /* dhgroups.h */,
+				FBA56F20B6F444E304AEF5B042D3CF5C /* error.c */,
+				D5658A50E26EAE87E2231FD56390E20D /* error.h */,
+				C82703BF49726C64040A94051AAFE81D /* handshake.h */,
+				43974832F29B03F6A683FC35DB0D5E01 /* hashswf.c */,
+				374B747B730F9980977F1C188FF2279A /* http.h */,
+				1FE299042444E0A0D76F153D4622459E /* log.c */,
+				98E1E68D6C05E216507C4B4F9D130094 /* log.h */,
+				C36E4932C58C424D5FD7651F27509664 /* parseurl.c */,
+				0A4498CF0512E054D9F92EEFC33CF6AC /* rtmp.c */,
+				A6F7CA9DE0D8EA76B38625CFAE819401 /* rtmp.h */,
+				A99D1231ABE1AE4B9144A1DCE96F3C20 /* rtmp_sys.h */,
+				DC1494B12E3B9FAC18500C49F6D1B7E8 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/pili-librtmp";
+			path = "pili-librtmp";
+			sourceTree = "<group>";
+		};
+		719B3AD4AD54DBCA8A3A2127FBC3090F /* HappyDNS */ = {
+			isa = PBXGroup;
+			children = (
+				30D351DB067D25C15CEAF5990F436F94 /* HappyDNS.h */,
+				D004A3AD4A7DE8A2D7E7C04FF43F9317 /* QNAssessment.h */,
+				F12D0536ABAE4F57FBBF1ED57B509717 /* QNAssessment.m */,
+				5445E1829949843D62F426D9864B9ACB /* QNDes.h */,
+				C5416E28D98C4F1C4B45EBCBB9D3AA12 /* QNDes.m */,
+				6606AC44EA59E6902143A0E5DD77C3F2 /* QNDnsManager.h */,
+				1769D0B2E536EBC6A74F90F238F691E7 /* QNDnsManager.m */,
+				DF9787CDCD31D1E1A799984E31A15FC2 /* QNDnspodEnterprise.h */,
+				E3978591783CC5D29D6C2A3930F91761 /* QNDnspodEnterprise.m */,
+				143AEAD8588F62090AFEEF3B15879151 /* QNDnspodFree.h */,
+				088FF061E0E5FE47E2946A040709133C /* QNDnspodFree.m */,
+				48253F91D0652EE1C7833C1D0A8E0849 /* QNDomain.h */,
+				EE19D646AC824C5FBBDABE577821E8F8 /* QNDomain.m */,
+				B88643EAADD1624EEC4F18A3EF192CD6 /* QNGetAddrInfo.h */,
+				697FEF25401BE49ED829DC264938BAF9 /* QNGetAddrInfo.m */,
+				419A68C39415D084E45E56C0ABADBA3A /* QNHex.h */,
+				7C2E317065CE493DDB3D5B68E515C47B /* QNHex.m */,
+				9B4D26B1369268CD483461551652785B /* QNHijackingDetectWrapper.h */,
+				1844E73FA2D40B20134B0A1E2264F6C4 /* QNHijackingDetectWrapper.m */,
+				85ECF15CA36564EE9DFA5FC5662113E8 /* QNHosts.h */,
+				A6B4A49FDEE1F947F20FAF3856EBF337 /* QNHosts.m */,
+				9ABE0BCAE29D2DA68276557D791B7019 /* QNIP.h */,
+				D7972504AC40E2EA02582595AA56F636 /* QNIP.m */,
+				D15052AF938120ABA903A6B7B509FD5D /* QNIpModel.h */,
+				1D09EDFFE72298C21B06BEC523750B9B /* QNIpModel.m */,
+				0285BCD8FCCD012ED50EA5660AB8D603 /* QNLruCache.h */,
+				1A972E9CBA2D827E48F8E2E2FF405E12 /* QNLruCache.m */,
+				6E4C240CB72F53904D4365F4F2A74520 /* QNNetworkInfo.h */,
+				0BF1608D9660D11510FFAFDF196D58BF /* QNNetworkInfo.m */,
+				8CB8F4898B5C1CAAC8CDEC5F8A217BBF /* QNRecord.h */,
+				125B0268139159DE63AFED140E4D0ACA /* QNRecord.m */,
+				9A7CB133DAD3C1755E14BAC14BE5B2B1 /* QNRefresher.h */,
+				7F813A3B4027D1D9D84D3BE859FA3BBA /* QNRefresher.m */,
+				A358CB9B823E65F769B30EF195AE99D7 /* QNResolver.h */,
+				9FD46F3F24615CDD392627CA64DEB3AA /* QNResolver.m */,
+				B0334BE3E2816720A73B5F653397768A /* QNResolverDelegate.h */,
+				877C1719423C5B7F4E4DD60C00B8C10A /* QNResolvUtil.h */,
+				FF60A7DC20594E8234C4FBA18DCBBC22 /* QNResolvUtil.m */,
+				5995837D013819F2253786A4AB5D3582 /* QNTxtResolver.h */,
+				18A7471EF36A3025DBAC43961CFE3847 /* QNTxtResolver.m */,
+				00B75402FACBA7FBD07006FE6D7BDB7D /* Support Files */,
+			);
+			path = HappyDNS;
 			sourceTree = "<group>";
 		};
 		7374BBB3A28B57D3CBDA2E7B0CE669BA /* Modules */ = {
@@ -1353,41 +1386,10 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0632A138A0C853081F192134D518816C /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				F5FCC3BE011CDD8023073EA3AE4E9082 /* Pods */,
+				1C454CA99579C46B67AD67DE1421B239 /* Pods */,
 				B424A27C1B306B72D16ACB377D0803EF /* Products */,
 				284738BBE9E05300A555CA93DDFB0A59 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		7E960303D603872C0BD865274CB7BE51 /* Common */ = {
-			isa = PBXGroup;
-			children = (
-				B22B181B06E5A06752AD1EB43164B3E5 /* PLAudioCaptureConfiguration.h */,
-				0A53E2D0D477A6A17F7EC139164DF714 /* PLAudioEffectConfiguration.h */,
-				790E735FC13E7C04350C8614AF92590B /* PLAudioEffectCustomConfiguration.h */,
-				9B785FA1FB3EBF86732AA26F53DA517D /* PLAudioPlayer.h */,
-				5B351E24B53EAA73DE5975D8D18E9456 /* PLAudioStreamingConfiguration.h */,
-				9F217F3CE0141C7C77D92D17A1AF4B58 /* PLBuffer.h */,
-				D98BEED05E46808136EB2B0D2F9BEC14 /* PLCommon.h */,
-				FC43E83371CA62767672EA872E6704B7 /* PLStream.h */,
-				2C6EA472DD4DF94692AB7C1074C51800 /* PLStreamStatus.h */,
-				42F11AEFB7F463901A40A7C5D44F03DE /* PLTypeDefines.h */,
-				C9C81ABDBA38ECAC31E736215980950A /* PLVideoCaptureConfiguration.h */,
-				5D45BF880584106C82A072405B9F6514 /* PLVideoStreamingConfiguration.h */,
-			);
-			name = Common;
-			sourceTree = "<group>";
-		};
-		7F1B34964559128E723DE3CD7D798AC2 /* PLMediaStreamingKit */ = {
-			isa = PBXGroup;
-			children = (
-				4E2AAB9D65D9D12A30252FEB5B02165B /* PLMediaStreamingKit.h */,
-				7E960303D603872C0BD865274CB7BE51 /* Common */,
-				25E0E8CA81307CF133E8B0780261A54C /* Frameworks */,
-				95F82515AB2C414DCF47509AADBAAD52 /* PLCameraStreamingKit */,
-				E394F7D2BABDEF1DE98763341B43B091 /* PLStreamingKit */,
-			);
-			path = PLMediaStreamingKit;
 			sourceTree = "<group>";
 		};
 		87E4478880693221C6937C74204CD246 /* Network */ = {
@@ -1433,13 +1435,14 @@
 			path = Libraries;
 			sourceTree = "<group>";
 		};
-		95F82515AB2C414DCF47509AADBAAD52 /* PLCameraStreamingKit */ = {
+		969CAD9BD3E153917CB420FB896BF872 /* PLStreamingKit */ = {
 			isa = PBXGroup;
 			children = (
-				EB9191F1CAC2A2BDE41A10FEB252326D /* PLCameraStreamingKit.h */,
-				1EE8F204ADCF65B28A2F384551D6AF01 /* PLCameraStreamingSession.h */,
+				2F57B482426CE884B14B6C2C938205E6 /* PLStreamingEnv.h */,
+				9A3FA0C8A7F33000C72AEAC0AAB0615C /* PLStreamingKit.h */,
+				90A8A1AA3D93B91D45C77D47063675C9 /* PLStreamingSession.h */,
 			);
-			name = PLCameraStreamingKit;
+			name = PLStreamingKit;
 			sourceTree = "<group>";
 		};
 		97FBB7B2691A3F321F4E69CA0D1DBA99 /* RCTPili */ = {
@@ -1488,6 +1491,14 @@
 				E471EFBAB778A26E5F4B1476EE670A53 /* RCTResizeMode.m */,
 			);
 			path = Image;
+			sourceTree = "<group>";
+		};
+		990CF2EA80B8ABD27A5CB08BB1C4DBF7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5D417EC4BEDC608953356412596FF171 /* libPLPlayerKit.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		9D41DDAB9F538A6CAD665A7EDEE35916 /* RCTPili */ = {
@@ -1539,6 +1550,19 @@
 				1D01046FC4C4CD956597F40F2A6FF680 /* ViewManagers */,
 			);
 			path = ART;
+			sourceTree = "<group>";
+		};
+		A22DD7BB763F4754516711C3F2435D75 /* PLPlayerKit */ = {
+			isa = PBXGroup;
+			children = (
+				E1D87008B6DE0B5848E58B9E3EE3DF47 /* PLPlayer.h */,
+				1EA763700153CED3CE2AADA80A3D9B41 /* PLPlayerEnv.h */,
+				4F4E30C6BE5609FCEF8C4F540757E7BF /* PLPlayerError.h */,
+				48C84DD196960916523741299B5F7391 /* PLPlayerKit.h */,
+				CDDC1D4499AA26C7F9FC8411A1FA3358 /* PLPlayerOption.h */,
+				09617EEAF42116D93B2B4D08878512F3 /* precompiled */,
+			);
+			path = PLPlayerKit;
 			sourceTree = "<group>";
 		};
 		A3129F48FAE0055AC2E258BC68377D50 /* Libraries */ = {
@@ -1593,6 +1617,15 @@
 			path = Profiler;
 			sourceTree = "<group>";
 		};
+		ACD04C948A80FB756B33E8BFAE2C984F /* PLCameraStreamingKit */ = {
+			isa = PBXGroup;
+			children = (
+				4C9166158BA724EC962B6F7EB64FF3A1 /* PLCameraStreamingKit.h */,
+				E40807B2E5BA9E747FF7068DBB162273 /* PLCameraStreamingSession.h */,
+			);
+			name = PLCameraStreamingKit;
+			sourceTree = "<group>";
+		};
 		AE103E4451B89AB7189E7DDA2508C945 /* Executors */ = {
 			isa = PBXGroup;
 			children = (
@@ -1602,6 +1635,18 @@
 				54B158E99D1A25A928725185D92AF227 /* RCTJSCWrapper.mm */,
 			);
 			path = Executors;
+			sourceTree = "<group>";
+		};
+		B2DDAD519F780645600D0F886AA68303 /* PLMediaStreamingKit */ = {
+			isa = PBXGroup;
+			children = (
+				FF48BAAF8A8F8CC422025211CE3B1483 /* PLMediaStreamingKit.h */,
+				1FBB28FC8BFF6D94AB60BA6D8FBBA100 /* Common */,
+				EC0EB52AF872DCA682DFBD4069AA8A7C /* Frameworks */,
+				ACD04C948A80FB756B33E8BFAE2C984F /* PLCameraStreamingKit */,
+				969CAD9BD3E153917CB420FB896BF872 /* PLStreamingKit */,
+			);
+			path = PLMediaStreamingKit;
 			sourceTree = "<group>";
 		};
 		B424A27C1B306B72D16ACB377D0803EF /* Products */ = {
@@ -1615,14 +1660,6 @@
 				FB5FC6836A07CA747815107A4A671D6F /* libReact.a */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		B59286A2B5FAA0AAFB06F3E706154A8E /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				09339DA987B2460165D94272AB7DDF88 /* libWeChatSDK.a */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		BC24723A85C3EAD68ED48C3C026976A6 /* ActionSheetIOS */ = {
@@ -1657,54 +1694,6 @@
 				CD6E229C0E182AB2A4E5B9647ECFFEF5 /* RCTTextViewManager.m */,
 			);
 			path = Text;
-			sourceTree = "<group>";
-		};
-		D0FAFF0A4DA5B04C5D72BB0E96CEC2B9 /* HappyDNS */ = {
-			isa = PBXGroup;
-			children = (
-				55178A9F0BB1B6E1275B99E41AF8B64C /* HappyDNS.h */,
-				8D0868D311556990588B4485AF84315A /* QNAssessment.h */,
-				707FDB19BF06F8482BD016CD80678F13 /* QNAssessment.m */,
-				378F98B083F37736E27DE602C2C33A09 /* QNDes.h */,
-				ED4B31F731774953C64676019C0B17A8 /* QNDes.m */,
-				6907603EF11A66052DE8A51B2D004153 /* QNDnsManager.h */,
-				B22FF1E52AC24530B9AC3DD66844E2E2 /* QNDnsManager.m */,
-				DE89421ECA8FA371CC9175BBF72C6489 /* QNDnspodEnterprise.h */,
-				7FAA5789425BA3795A22DEBE84B3D79A /* QNDnspodEnterprise.m */,
-				A1F8934FAECECBCB80D5FD7985B637BB /* QNDnspodFree.h */,
-				57B31387A836F4529D685E24489F38AC /* QNDnspodFree.m */,
-				92E265C32E19D99C5982E284B6B9B848 /* QNDomain.h */,
-				2BEFE7FAA15F57892131755F81A4818A /* QNDomain.m */,
-				47B9BFD9DBDB003B8CA92CBA69D150D6 /* QNGetAddrInfo.h */,
-				005E9F41D436CEDD826B7A45E6D59E1D /* QNGetAddrInfo.m */,
-				DD260D23343964558225D94414ECEAB5 /* QNHex.h */,
-				6DB96ED68D92BF989A02BB0695C82866 /* QNHex.m */,
-				176D0C04FB22CD628665409B35135F80 /* QNHijackingDetectWrapper.h */,
-				7C66A799B307D2FE80B9AF5AF02DE08B /* QNHijackingDetectWrapper.m */,
-				BBB402626E24B606B28B4DBBFC70869F /* QNHosts.h */,
-				F0112B1A8AB27126380A152AF305AC38 /* QNHosts.m */,
-				18016ECC57A6E8B8A0BC8914083AD503 /* QNIP.h */,
-				4163AEE0F020854AC310A61A1A00B805 /* QNIP.m */,
-				FA9CE2B2DD117CCF9F59817EC4AC76F1 /* QNIpModel.h */,
-				860DCD5BC759F7AECCE0A7A39D513794 /* QNIpModel.m */,
-				076CA5D6FD25CFB928A519D23CD4EAFA /* QNLruCache.h */,
-				205013A80DC15FA5A44AA10F31FE120E /* QNLruCache.m */,
-				64AB04B7C17E612CA83B52C77BDC4E38 /* QNNetworkInfo.h */,
-				8BB064FF431FCC8EF252144B054AEBF3 /* QNNetworkInfo.m */,
-				A9816813F92437AD9B774186F84D3CB1 /* QNRecord.h */,
-				AC176E3575B1D4F23964C75E1A4D0809 /* QNRecord.m */,
-				3E32769740E3E263B158E57974A831F3 /* QNRefresher.h */,
-				80E6AB2FA624B49DBD8ADDB32B61EC77 /* QNRefresher.m */,
-				81D65433C6C2E1D4AA5E0518EA0E379E /* QNResolver.h */,
-				36180851DCAF20BCD0AA6EBEAD89380B /* QNResolver.m */,
-				B7F6A1B0A785F2979A1D8EE58AC4E806 /* QNResolverDelegate.h */,
-				C7043DB24B2DDBDCA45EA9B79B478157 /* QNResolvUtil.h */,
-				65743D0922DEBDA79E5AB938E8D36736 /* QNResolvUtil.m */,
-				256ACD48DE4F71B546672AE677B4D672 /* QNTxtResolver.h */,
-				88EF1BFA5D96CEF7B2DCCBA2F6D997CE /* QNTxtResolver.m */,
-				33D5EE0858953D7D0522A4E992DC8125 /* Support Files */,
-			);
-			path = HappyDNS;
 			sourceTree = "<group>";
 		};
 		D7F77D7EA7020D133BADBF1B05865924 /* Geolocation */ = {
@@ -1745,6 +1734,17 @@
 			path = CSSLayout;
 			sourceTree = "<group>";
 		};
+		DC1494B12E3B9FAC18500C49F6D1B7E8 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A19BC413A3F1D042316AB3D0A0E9678A /* pili-librtmp.xcconfig */,
+				2BD540BC9AB10CBA514A84C3476F04AF /* pili-librtmp-dummy.m */,
+				B0E8932D9339674235BF075402C93776 /* pili-librtmp-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/pili-librtmp";
+			sourceTree = "<group>";
+		};
 		DDB6A8A880B8B631F5E860FF55DEF751 /* React */ = {
 			isa = PBXGroup;
 			children = (
@@ -1780,16 +1780,6 @@
 			path = WebSocket;
 			sourceTree = "<group>";
 		};
-		E394F7D2BABDEF1DE98763341B43B091 /* PLStreamingKit */ = {
-			isa = PBXGroup;
-			children = (
-				5C7DAF456B044698FD4CD8FE1AFA6587 /* PLStreamingEnv.h */,
-				C52E0F9325AFF5304C057E3BC86AD50C /* PLStreamingKit.h */,
-				2ADD8F117FE9E250026FDA3BDBF2A8FF /* PLStreamingSession.h */,
-			);
-			name = PLStreamingKit;
-			sourceTree = "<group>";
-		};
 		E7723E7FEECAF426ECEBCFECB5D2CB1E /* React */ = {
 			isa = PBXGroup;
 			children = (
@@ -1798,10 +1788,10 @@
 			path = React;
 			sourceTree = "<group>";
 		};
-		EBB9F068CF5F81906C17325E41F92948 /* Frameworks */ = {
+		EC0EB52AF872DCA682DFBD4069AA8A7C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				8EB475147417D94D327F22140A1891BF /* libPLPlayerKit.a */,
+				34948EAC1D3A90280D11A8A74AEDF85B /* libPLMediaStreamingKit.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1910,18 +1900,6 @@
 				6C58455CF61C0407E73007ECB4884E14 /* UIView+React.m */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		F5FCC3BE011CDD8023073EA3AE4E9082 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D0FAFF0A4DA5B04C5D72BB0E96CEC2B9 /* HappyDNS */,
-				5BBDC60CF928D47EFE75F5E659E2A02E /* pili-librtmp */,
-				7F1B34964559128E723DE3CD7D798AC2 /* PLMediaStreamingKit */,
-				5B0DF9C7299DC8F8B3D9AE85BAFC9270 /* PLPlayerKit */,
-				07CF432228E78B65C26FE3C0F9463238 /* WeChatSDK */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		F83B6BA3CBC88D289D95A9418A8C7ACF /* CSSLayout */ = {
@@ -2589,7 +2567,7 @@
 /* Begin XCBuildConfiguration section */
 		020A5D99C8EDF8BAE6ADF0DFFAD3E3AD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 84EC12676BB81151D36D3A358F758868 /* pili-librtmp.xcconfig */;
+			baseConfigurationReference = A19BC413A3F1D042316AB3D0A0E9678A /* pili-librtmp.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -2631,7 +2609,7 @@
 		};
 		36487C2763E377E25F3522AEF2305C85 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96B6E80C86DB6D536DB38669F222FE22 /* HappyDNS.xcconfig */;
+			baseConfigurationReference = E3DCFB74BE5A1A3BB8C16C95A158F2D9 /* HappyDNS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -2774,7 +2752,7 @@
 		};
 		6644CE3A4F4565A6E2702526A68DBFA1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 84EC12676BB81151D36D3A358F758868 /* pili-librtmp.xcconfig */;
+			baseConfigurationReference = A19BC413A3F1D042316AB3D0A0E9678A /* pili-librtmp.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -2858,7 +2836,7 @@
 		};
 		D4755527B917810CBB847F5D90266C18 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96B6E80C86DB6D536DB38669F222FE22 /* HappyDNS.xcconfig */;
+			baseConfigurationReference = E3DCFB74BE5A1A3BB8C16C95A158F2D9 /* HappyDNS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = dwarf;
